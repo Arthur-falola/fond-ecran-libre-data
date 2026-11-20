@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-20T21:01:54Z",
+  "updated": "2026-11-20T21:55:18Z",
   "site": "https://fondsecranlibre.free.je",
   "images_base_url": "https://arthur-falola.github.io/fond-ecran-libre-data/images/",
   "collections": [
@@ -728,6 +728,186 @@
       ],
       "description": "Des écouteurs sans fil premium sur fond dégradé bleu-violet, reflets doux et design épuré. Un fond d'écran gratuit pour téléphone, high-tech et minimaliste.",
       "image": "ecouteurs-sans-fil-premium.webp",
+      "date_ajout": "2026-11-20",
+      "telechargements": 0
+    },
+    {
+      "id": 40,
+      "titre": "Pont suspendu moderne dans la brume du matin",
+      "categorie": "ville",
+      "tags": [
+        "pont",
+        "suspendu",
+        "brume",
+        "matin",
+        "architecture",
+        "moderne",
+        "ville"
+      ],
+      "description": "Un pont suspendu moderne émergeant de la brume du matin, lumière dorée perçant le brouillard. Un fond d'écran gratuit pour téléphone, calme et majestueux.",
+      "image": "pont-suspendu-brume-matin.webp",
+      "date_ajout": "2026-11-20",
+      "telechargements": 0
+    },
+    {
+      "id": 41,
+      "titre": "Forêt de bambous, lumière filtrée entre les tiges",
+      "categorie": "nature",
+      "tags": [
+        "bambous",
+        "forêt",
+        "lumière",
+        "zen",
+        "vert",
+        "nature",
+        "apaisant"
+      ],
+      "description": "Une forêt de bambous verts traversée par des rayons de lumière filtrée entre les tiges. Un fond d'écran gratuit pour téléphone, zen et apaisant.",
+      "image": "foret-bambous-lumiere.webp",
+      "date_ajout": "2026-11-20",
+      "telechargements": 0
+    },
+    {
+      "id": 42,
+      "titre": "Plage tropicale turquoise vue du ciel",
+      "categorie": "paysages",
+      "tags": [
+        "plage",
+        "tropicale",
+        "turquoise",
+        "sable",
+        "palmiers",
+        "mer",
+        "paradis"
+      ],
+      "description": "Une plage tropicale turquoise vue du ciel, sable blanc et palmiers bordant une eau cristalline. Un fond d'écran gratuit pour téléphone, paradisiaque et lumineux.",
+      "image": "plage-tropicale-turquoise-ciel.webp",
+      "date_ajout": "2026-11-20",
+      "telechargements": 0
+    },
+    {
+      "id": 43,
+      "titre": "Chat roux aux yeux verts, portrait en gros plan",
+      "categorie": "animaux",
+      "tags": [
+        "chat",
+        "roux",
+        "yeux-verts",
+        "portrait",
+        "animal",
+        "gros-plan",
+        "adorable"
+      ],
+      "description": "Un chat roux aux yeux verts perçants en portrait gros plan, fourrure détaillée et regard intense. Un fond d'écran gratuit pour téléphone, adorable et captivant.",
+      "image": "chat-roux-yeux-verts.webp",
+      "date_ajout": "2026-11-20",
+      "telechargements": 0
+    },
+    {
+      "id": 44,
+      "titre": "Aurore boréale verte au-dessus de montagnes enneigées",
+      "categorie": "ciel",
+      "tags": [
+        "aurore-boréale",
+        "ciel",
+        "nuit",
+        "étoiles",
+        "neige",
+        "montagnes",
+        "magique"
+      ],
+      "description": "Une aurore boréale verte dansant dans un ciel étoilé au-dessus de montagnes enneigées. Un fond d'écran gratuit pour téléphone, magique et féerique.",
+      "image": "aurore-boreale-montagnes-neige.webp",
+      "date_ajout": "2026-11-20",
+      "telechargements": 0
+    },
+    {
+      "id": 45,
+      "titre": "Fleurs de cerisier en pleine floraison, pétales qui tombent",
+      "categorie": "nature",
+      "tags": [
+        "cerisier",
+        "fleurs",
+        "pétales",
+        "rose",
+        "printemps",
+        "nature",
+        "japon"
+      ],
+      "description": "Des fleurs de cerisier roses en pleine floraison, pétales tombant doucement sous un ciel bleu clair. Un fond d'écran gratuit pour téléphone, délicat et printanier.",
+      "image": "fleurs-cerisier-floraison.webp",
+      "date_ajout": "2026-11-20",
+      "telechargements": 0
+    },
+    {
+      "id": 46,
+      "titre": "Tasse de café crème sur table en bois, ambiance cosy",
+      "categorie": "minimaliste",
+      "tags": [
+        "café",
+        "crème",
+        "tasse",
+        "bois",
+        "cosy",
+        "matin",
+        "chaleureux"
+      ],
+      "description": "Une tasse de café crème sur une table en bois, vapeur qui s'élève dans une lumière douce du matin. Un fond d'écran gratuit pour téléphone, cosy et chaleureux.",
+      "image": "cafe-creme-table-bois.webp",
+      "date_ajout": "2026-11-20",
+      "telechargements": 0
+    },
+    {
+      "id": 47,
+      "titre": "Cascade tropicale dans la jungle luxuriante",
+      "categorie": "eau",
+      "tags": [
+        "cascade",
+        "jungle",
+        "tropicale",
+        "eau",
+        "turquoise",
+        "nature",
+        "paradis"
+      ],
+      "description": "Une cascade tropicale dans une jungle luxuriante, eau turquoise et végétation dense. Un fond d'écran gratuit pour téléphone, paradisiaque et rafraîchissant.",
+      "image": "cascade-tropicale-jungle.webp",
+      "date_ajout": "2026-11-20",
+      "telechargements": 0
+    },
+    {
+      "id": 48,
+      "titre": "Voilier blanc au coucher du soleil sur la mer",
+      "categorie": "paysages",
+      "tags": [
+        "voilier",
+        "mer",
+        "coucher-de-soleil",
+        "voile",
+        "voyage",
+        "serein",
+        "océan"
+      ],
+      "description": "Un voilier blanc naviguant au coucher du soleil sur une mer calme, ciel orange et reflets dorés. Un fond d'écran gratuit pour téléphone, serein et rêveur.",
+      "image": "voilier-coucher-soleil-mer.webp",
+      "date_ajout": "2026-11-20",
+      "telechargements": 0
+    },
+    {
+      "id": 49,
+      "titre": "Lionne dorée dans la savane au crépuscule",
+      "categorie": "animaux",
+      "tags": [
+        "lionne",
+        "savane",
+        "crépuscule",
+        "doré",
+        "afrique",
+        "animal",
+        "majestueux"
+      ],
+      "description": "Une lionne dorée dans la savane au crépuscule, lumière chaude et regard majestueux vers l'horizon. Un fond d'écran gratuit pour téléphone, sauvage et élégant.",
+      "image": "lionne-savane-crepuscule.webp",
       "date_ajout": "2026-11-20",
       "telechargements": 0
     }
