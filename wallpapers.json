@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "updated": "2026-11-20T06:07:13Z",
+  "site": "https://fondsecranlibre.free.je",
+  "images_base_url": "https://arthur-falola.github.io/fond-ecran-libre-data/images/",
+  "collections": [
+    {
+      "id": "matin",
+      "nom": "Douceurs du matin",
+      "emoji": "🌅",
+      "tag": "matin",
+      "tags": [
+        "matin"
+      ],
+      "description": "Le jour se lève doucement : rosée, brume et premiers rayons pour commencer la journée en beauté."
+    },
+    {
+      "id": "nuit",
+      "nom": "Nuit & lumières",
+      "emoji": "🌙",
+      "tag": "nuit",
+      "tags": [
+        "nuit"
+      ],
+      "description": "Quand la nuit tombe, les étoiles et les néons prennent le relais."
+    },
+    {
+      "id": "dore",
+      "nom": "Tout en doré",
+      "emoji": "✨",
+      "tag": "doré",
+      "tags": [
+        "doré"
+      ],
+      "description": "Or, miel et lumière chaude : des fonds qui brillent sans éblouir."
+    },
+    {
+      "id": "macro",
+      "nom": "Macro monde",
+      "emoji": "🔍",
+      "tag": "macro",
+      "tags": [
+        "macro"
+      ],
+      "description": "L'infiniment petit vu de très près : gouttes, plumes, regards et textures."
+    },
+    {
+      "id": "bleu",
+      "nom": "Bleu profond",
+      "emoji": "💙",
+      "tag": "bleu",
+      "tags": [
+        "bleu",
+        "turquoise"
+      ],
+      "description": "Vagues, encres et horizons bleus pour un écran apaisant."
+    },
+    {
+      "id": "foret",
+      "nom": "Au cœur de la forêt",
+      "emoji": "🌲",
+      "tag": "forêt",
+      "tags": [
+        "forêt"
+      ],
+      "description": "Mousse, champignons et regards discrets entre les arbres."
+    }
+  ],
+  "wallpapers": [
+    {
+      "id": 1,
+      "titre": "Rosée du matin",
+      "categorie": "nature",
+      "tags": [
+        "matin",
+        "rosée",
+        "macro",
+        "goutte"
+      ],
+      "description": "Goutte de rosée sur une toile d'araignée, reflet du lever du soleil.",
+      "image": "rosee-toile-araignee.webp",
+      "date_ajout": "2026-11-20",
+      "telechargements": 0
+    },
+    {
+      "id": 2,
+      "titre": "Plume dorée",
+      "categorie": "nature",
+      "tags": [
+        "plume",
+        "doré",
+        "macro",
+        "pollen"
+      ],
+      "description": "Plume tombée au sol, saupoudrée de pollen doré.",
+      "image": "plume-pollen.webp",
+      "date_ajout": "2026-11-20",
+      "telechargements": 0
+    },
+    {
+      "id": 3,
+      "titre": "L'œil du caméléon",
+      "categorie": "animaux",
+      "tags": [
+        "caméléon",
+        "œil",
+        "macro",
+        "reptile",
+        "couleurs"
+      ],
+      "description": "Œil de caméléon en gros plan, écailles colorées.",
+      "image": "oeil-cameleon.webp",
+      "date_ajout": "2026-11-20",
+      "telechargements": 0
+    },
+    {
+      "id": 4,
+      "titre": "L'abeille du matin",
+      "categorie": "animaux",
+      "tags": [
+        "abeille",
+        "matin",
+        "macro",
+        "fleur",
+        "pollen"
+      ],
+      "description": "Abeille couverte de pollen, posée sur une fleur sauvage.",
+      "image": "abeille-pollen.webp",
+      "date_ajout": "2026-11-20",
+      "telechargements": 1
+    },
+    {
+      "id": 5,
+      "titre": "Brume de montagne",
+      "categorie": "paysages",
+      "tags": [
+        "montagne",
+        "brume",
+        "matin",
+        "lever-de-soleil"
+      ],
+      "description": "Crêtes de montagne émergeant d'une mer de brume au lever du soleil.",
+      "image": "brume-montagne.webp",
+      "date_ajout": "2026-11-20",
+      "telechargements": 0
+    },
+    {
+      "id": 6,
+      "titre": "Vague turquoise",
+      "categorie": "eau",
+      "tags": [
+        "vague",
+        "mer",
+        "turquoise",
+        "océan",
+        "écume"
+      ],
+      "description": "Vague turquoise en gros plan, écume fine et gouttelettes cristallines.",
+      "image": "vague-turquoise.webp",
+      "date_ajout": "2026-11-20",
+      "telechargements": 0
+    },
+    {
+      "id": 7,
+      "titre": "Nébuleuse violette",
+      "categorie": "espace",
+      "tags": [
+        "nébuleuse",
+        "étoiles",
+        "nuit",
+        "violet",
+        "cosmos"
+      ],
+      "description": "Nébuleuse violette et bleue parsemée d'étoiles dans le ciel nocturne.",
+      "image": "nebuleuse-violette.webp",
+      "date_ajout": "2026-11-20",
+      "telechargements": 0
+    },
+    {
+      "id": 8,
+      "titre": "Rue pluvieuse",
+      "categorie": "ville",
+      "tags": [
+        "ville",
+        "pluie",
+        "nuit",
+        "néons",
+        "rue"
+      ],
+      "description": "Rue de ville la nuit sous la pluie, reflets de néons sur le pavé mouillé.",
+      "image": "rue-pluvieuse.webp",
+      "date_ajout": "2026-11-20",
+      "telechargements": 0
+    },
+    {
+      "id": 9,
+      "titre": "Encres dans l'eau",
+      "categorie": "abstrait",
+      "tags": [
+        "encre",
+        "abstrait",
+        "bleu",
+        "violet",
+        "doré"
+      ],
+      "description": "Nuages d'encre bleue, violette et dorée se déployant dans l'eau claire.",
+      "image": "encres-eau.webp",
+      "date_ajout": "2026-11-20",
+      "telechargements": 0
+    },
+    {
+      "id": 10,
+      "titre": "Dune de sable",
+      "categorie": "minimaliste",
+      "tags": [
+        "dune",
+        "sable",
+        "désert",
+        "minimaliste",
+        "doré"
+      ],
+      "description": "Une seule courbe de dune dorée, ombre douce et ciel dégagé.",
+      "image": "dune-sable.webp",
+      "date_ajout": "2026-11-20",
+      "telechargements": 0
+    },
+    {
+      "id": 11,
+      "titre": "Champignon de forêt",
+      "categorie": "nature",
+      "tags": [
+        "champignon",
+        "forêt",
+        "mousse",
+        "rouge"
+      ],
+      "description": "Petit champignon rouge à pois blancs poussant dans la mousse d'une forêt.",
+      "image": "champignon-foret.webp",
+      "date_ajout": "2026-11-20",
+      "telechargements": 0
+    },
+    {
+      "id": 12,
+      "titre": "Regard de renard",
+      "categorie": "animaux",
+      "tags": [
+        "renard",
+        "forêt",
+        "matin",
+        "regard"
+      ],
+      "description": "Le regard d'un renard roux en gros plan, forêt floue à la lumière du matin.",
+      "image": "regard-renard.webp",
+      "date_ajout": "2026-11-20",
+      "telechargements": 0
+    },
+    {
+      "id": 13,
+      "titre": "Nuages dorés",
+      "categorie": "ciel",
+      "tags": [
+        "nuages",
+        "coucher-de-soleil",
+        "doré",
+        "ciel"
+      ],
+      "description": "Nuages dorés et roses au coucher du soleil, vus depuis une colline.",
+      "image": "nuages-dores.webp",
+      "date_ajout": "2026-11-20",
+      "telechargements": 0
+    },
+    {
+      "id": 14,
+      "titre": "Papillon monarque",
+      "categorie": "animaux",
+      "tags": [
+        "papillon",
+        "fleur",
+        "orange",
+        "insecte"
+      ],
+      "description": "Papillon monarque orange et noir posé sur une fleur sauvage.",
+      "image": "papillon-monarque.webp",
+      "date_ajout": "2026-11-20",
+      "telechargements": 1
+    }
+  ]
+}
