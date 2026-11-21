@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-20T21:55:18Z",
+  "updated": "2026-11-21T08:02:48Z",
   "site": "https://fondsecranlibre.free.je",
   "images_base_url": "https://arthur-falola.github.io/fond-ecran-libre-data/images/",
   "collections": [
@@ -909,6 +909,186 @@
       "description": "Une lionne dorée dans la savane au crépuscule, lumière chaude et regard majestueux vers l'horizon. Un fond d'écran gratuit pour téléphone, sauvage et élégant.",
       "image": "lionne-savane-crepuscule.webp",
       "date_ajout": "2026-11-20",
+      "telechargements": 0
+    },
+    {
+      "id": 50,
+      "titre": "Montgolfières colorées au lever du soleil",
+      "categorie": "paysages",
+      "tags": [
+        "montgolfières",
+        "lever-du-soleil",
+        "vallée",
+        "brume",
+        "ciel",
+        "couleurs",
+        "voyage"
+      ],
+      "description": "Des montgolfières colorées flottant au-dessus d'une vallée brumeuse au lever du soleil, ciel doré et rose. Un fond d'écran gratuit pour téléphone, poétique et lumineux.",
+      "image": "montgolfieres-lever-soleil.webp",
+      "date_ajout": "2026-11-21",
+      "telechargements": 0
+    },
+    {
+      "id": 51,
+      "titre": "Renard polaire dans la neige",
+      "categorie": "animaux",
+      "tags": [
+        "renard-polaire",
+        "neige",
+        "hiver",
+        "arctique",
+        "animal",
+        "blanc",
+        "froid"
+      ],
+      "description": "Un renard polaire blanc dans un paysage de neige immaculée, regard vif et flocons qui tombent. Un fond d'écran gratuit pour téléphone, pur et hivernal.",
+      "image": "renard-polaire-neige.webp",
+      "date_ajout": "2026-11-21",
+      "telechargements": 0
+    },
+    {
+      "id": 52,
+      "titre": "Galaxie spirale et étoiles filantes",
+      "categorie": "espace",
+      "tags": [
+        "galaxie",
+        "spirale",
+        "étoiles-filantes",
+        "espace",
+        "nuit",
+        "nébuleuse",
+        "cosmos"
+      ],
+      "description": "Une galaxie spirale majestueuse dans un ciel nocturne profond, étoiles filantes et nébuleuses colorées. Un fond d'écran gratuit pour téléphone, cosmique et féerique.",
+      "image": "galaxie-spirale-etoiles-filantes.webp",
+      "date_ajout": "2026-11-21",
+      "telechargements": 0
+    },
+    {
+      "id": 53,
+      "titre": "Chute d'eau gelée en hiver",
+      "categorie": "eau",
+      "tags": [
+        "cascade",
+        "gelée",
+        "glace",
+        "hiver",
+        "neige",
+        "canyon",
+        "bleu"
+      ],
+      "description": "Une chute d'eau figée en glace bleutée dans un canyon enneigé, stalactites de glace étincelantes. Un fond d'écran gratuit pour téléphone, glacial et spectaculaire.",
+      "image": "chute-eau-gelee-hiver.webp",
+      "date_ajout": "2026-11-21",
+      "telechargements": 0
+    },
+    {
+      "id": 54,
+      "titre": "Marché d'épices coloré",
+      "categorie": "ville",
+      "tags": [
+        "marché",
+        "épices",
+        "couleurs",
+        "souk",
+        "curcuma",
+        "safran",
+        "exotique"
+      ],
+      "description": "Un marché d'épices coloré, monticules de curcuma, paprika et safran sous une lumière chaude de souk. Un fond d'écran gratuit pour téléphone, vibrant et exotique.",
+      "image": "marche-epices-colore.webp",
+      "date_ajout": "2026-11-21",
+      "telechargements": 0
+    },
+    {
+      "id": 55,
+      "titre": "Fougère en macro, gouttes de rosée",
+      "categorie": "nature",
+      "tags": [
+        "fougère",
+        "macro",
+        "rosée",
+        "gouttes",
+        "vert",
+        "nature",
+        "matin"
+      ],
+      "description": "Une fougère en macro avec des gouttes de rosée cristallines sur les feuilles vertes, lumière du matin. Un fond d'écran gratuit pour téléphone, frais et délicat.",
+      "image": "fougere-macro-rosee.webp",
+      "date_ajout": "2026-11-21",
+      "telechargements": 0
+    },
+    {
+      "id": 56,
+      "titre": "Piano à queue sous une lumière dorée",
+      "categorie": "minimaliste",
+      "tags": [
+        "piano",
+        "musique",
+        "lumière-dorée",
+        "élégant",
+        "noir",
+        "soir",
+        "raffiné"
+      ],
+      "description": "Un piano à queue noir laqué sous une lumière dorée du soir, reflets chauds et ambiance raffinée. Un fond d'écran gratuit pour téléphone, élégant et intime.",
+      "image": "piano-queue-lumiere-doree.webp",
+      "date_ajout": "2026-11-21",
+      "telechargements": 0
+    },
+    {
+      "id": 57,
+      "titre": "Tourbillon de peinture colorée",
+      "categorie": "abstrait",
+      "tags": [
+        "peinture",
+        "tourbillon",
+        "couleurs",
+        "abstrait",
+        "liquide",
+        "art",
+        "vibrant"
+      ],
+      "description": "Un tourbillon de peinture liquide aux couleurs vives en mouvement, textures fluides et brillantes sur fond sombre. Un fond d'écran gratuit pour téléphone, artistique et dynamique.",
+      "image": "tourbillon-peinture-coloree.webp",
+      "date_ajout": "2026-11-21",
+      "telechargements": 0
+    },
+    {
+      "id": 58,
+      "titre": "Dunes du désert sous un ciel étoilé",
+      "categorie": "ciel",
+      "tags": [
+        "dunes",
+        "désert",
+        "sable",
+        "étoiles",
+        "voie-lactée",
+        "nuit",
+        "ciel"
+      ],
+      "description": "Des dunes de sable aux courbes douces sous une Voie lactée brillante et un ciel d'étoiles innombrables. Un fond d'écran gratuit pour téléphone, nocturne et serein.",
+      "image": "dunes-desert-ciel-etoile.webp",
+      "date_ajout": "2026-11-21",
+      "telechargements": 0
+    },
+    {
+      "id": 59,
+      "titre": "Cerf majestueux dans la forêt brumeuse",
+      "categorie": "animaux",
+      "tags": [
+        "cerf",
+        "forêt",
+        "brume",
+        "bois",
+        "animal",
+        "matin",
+        "sauvage"
+      ],
+      "description": "Un cerf majestueux aux bois imposants dans une forêt de conifères enveloppée de brume matinale. Un fond d'écran gratuit pour téléphone, mystérieux et sauvage.",
+      "image": "cerf-foret-brumeuse.webp",
+      "date_ajout": "2026-11-21",
       "telechargements": 0
     }
   ]
