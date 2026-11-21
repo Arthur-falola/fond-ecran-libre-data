@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "updated": "2026-11-21T10:17:18Z",
+  "site": "https://fondsecranlibre.free.je",
+  "videos_base_url": "https://arthur-falola.github.io/fond-ecran-libre-data/videos/",
+  "posters_base_url": "https://arthur-falola.github.io/fond-ecran-libre-data/posters/",
+  "animes": [
+    {
+      "categorie": "ciel",
+      "description": "Une aurore boréale verte qui ondule lentement au-dessus de montagnes enneigées, ciel étoilé. Un fond d'écran animé gratuit pour téléphone, magique et apaisant.",
+      "duree_secondes": 10,
+      "id": "a1",
+      "poster": "aurore-boreale.webp",
+      "tags": [
+        "aurore-boréale",
+        "neige",
+        "montagnes",
+        "nuit",
+        "étoiles",
+        "ciel",
+        "vert"
+      ],
+      "titre": "Aurore boréale au-dessus des montagnes",
+      "video": "aurore-boreale.mp4"
+    },
+    {
+      "categorie": "eau",
+      "description": "Une pluie fine sur une vitre, gouttes qui glissent lentement avec des lumières de ville floutées en arrière-plan. Un fond d'écran animé gratuit pour téléphone, doux et mélancolique.",
+      "duree_secondes": 10,
+      "id": "a2",
+      "poster": "pluie-sur-vitre.webp",
+      "tags": [
+        "pluie",
+        "vitre",
+        "gouttes",
+        "ville",
+        "nuit",
+        "bokeh",
+        "calme"
+      ],
+      "titre": "Pluie fine sur la vitre",
+      "video": "pluie-sur-vitre.mp4"
+    },
+    {
+      "categorie": "paysages",
+      "description": "Des vagues turquoise qui se brisent doucement sur une plage de sable blanc, écume qui roule et se retire. Un fond d'écran animé gratuit pour téléphone, frais et relaxant.",
+      "duree_secondes": 10,
+      "id": "a3",
+      "poster": "vagues-turquoise.webp",
+      "tags": [
+        "vagues",
+        "plage",
+        "turquoise",
+        "mer",
+        "sable",
+        "écume",
+        "été"
+      ],
+      "titre": "Vagues turquoise sur la plage",
+      "video": "vagues-turquoise.mp4"
+    },
+    {
+      "categorie": "abstrait",
+      "description": "Des braises et étincelles dorées qui montent lentement dans le noir, particules lumineuses en suspension. Un fond d'écran animé gratuit pour téléphone, chaud et hypnotique.",
+      "duree_secondes": 8,
+      "id": "a4",
+      "poster": "braises-dorees.webp",
+      "tags": [
+        "braises",
+        "étincelles",
+        "doré",
+        "feu",
+        "noir",
+        "abstrait",
+        "lumière"
+      ],
+      "titre": "Braises dorées dans le noir",
+      "video": "braises-dorees.mp4"
+    },
+    {
+      "categorie": "espace",
+      "description": "Une nébuleuse violette majestueuse, étoiles scintillantes et étoiles filantes qui traversent le ciel. Un fond d'écran animé gratuit pour téléphone, cosmique et féerique.",
+      "duree_secondes": 10,
+      "id": "a5",
+      "poster": "nebuleuse-etoiles.webp",
+      "tags": [
+        "nébuleuse",
+        "violet",
+        "étoiles-filantes",
+        "espace",
+        "nuit",
+        "cosmos",
+        "galaxie"
+      ],
+      "titre": "Nébuleuse violette et étoiles filantes",
+      "video": "nebuleuse-etoiles.mp4"
+    }
+  ]
+}
