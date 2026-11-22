@@ -1,1095 +1,1275 @@
 {
-  "version": 1,
-  "updated": "2026-11-21T08:02:48Z",
-  "site": "https://fondsecranlibre.free.je",
-  "images_base_url": "https://arthur-falola.github.io/fond-ecran-libre-data/images/",
-  "collections": [
-    {
-      "id": "matin",
-      "nom": "Douceurs du matin",
-      "emoji": "🌅",
-      "tag": "matin",
-      "tags": [
-        "matin"
-      ],
-      "description": "Le jour se lève doucement : rosée, brume et premiers rayons pour commencer la journée en beauté."
-    },
-    {
-      "id": "nuit",
-      "nom": "Nuit & lumières",
-      "emoji": "🌙",
-      "tag": "nuit",
-      "tags": [
-        "nuit"
-      ],
-      "description": "Quand la nuit tombe, les étoiles et les néons prennent le relais."
-    },
-    {
-      "id": "dore",
-      "nom": "Tout en doré",
-      "emoji": "✨",
-      "tag": "doré",
-      "tags": [
-        "doré"
-      ],
-      "description": "Or, miel et lumière chaude : des fonds qui brillent sans éblouir."
-    },
-    {
-      "id": "macro",
-      "nom": "Macro monde",
-      "emoji": "🔍",
-      "tag": "macro",
-      "tags": [
-        "macro"
-      ],
-      "description": "L'infiniment petit vu de très près : gouttes, plumes, regards et textures."
-    },
-    {
-      "id": "bleu",
-      "nom": "Bleu profond",
-      "emoji": "💙",
-      "tag": "bleu",
-      "tags": [
-        "bleu",
-        "turquoise"
-      ],
-      "description": "Vagues, encres et horizons bleus pour un écran apaisant."
-    },
-    {
-      "id": "foret",
-      "nom": "Au cœur de la forêt",
-      "emoji": "🌲",
-      "tag": "forêt",
-      "tags": [
-        "forêt"
-      ],
-      "description": "Mousse, champignons et regards discrets entre les arbres."
-    }
-  ],
-  "wallpapers": [
-    {
-      "id": 1,
-      "titre": "Rosée du matin",
-      "categorie": "nature",
-      "tags": [
-        "matin",
-        "rosée",
-        "macro",
-        "goutte"
-      ],
-      "description": "Goutte de rosée sur une toile d'araignée, reflet du lever du soleil.",
-      "image": "rosee-toile-araignee.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 2,
-      "titre": "Plume dorée",
-      "categorie": "nature",
-      "tags": [
-        "plume",
-        "doré",
-        "macro",
-        "pollen"
-      ],
-      "description": "Plume tombée au sol, saupoudrée de pollen doré.",
-      "image": "plume-pollen.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 3,
-      "titre": "L'œil du caméléon",
-      "categorie": "animaux",
-      "tags": [
-        "caméléon",
-        "œil",
-        "macro",
-        "reptile",
-        "couleurs"
-      ],
-      "description": "Œil de caméléon en gros plan, écailles colorées.",
-      "image": "oeil-cameleon.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 4,
-      "titre": "L'abeille du matin",
-      "categorie": "animaux",
-      "tags": [
-        "abeille",
-        "matin",
-        "macro",
-        "fleur",
-        "pollen"
-      ],
-      "description": "Abeille couverte de pollen, posée sur une fleur sauvage.",
-      "image": "abeille-pollen.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 1
-    },
-    {
-      "id": 5,
-      "titre": "Brume de montagne",
-      "categorie": "paysages",
-      "tags": [
-        "montagne",
-        "brume",
-        "matin",
-        "lever-de-soleil"
-      ],
-      "description": "Crêtes de montagne émergeant d'une mer de brume au lever du soleil.",
-      "image": "brume-montagne.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 6,
-      "titre": "Vague turquoise",
-      "categorie": "eau",
-      "tags": [
-        "vague",
-        "mer",
-        "turquoise",
-        "océan",
-        "écume"
-      ],
-      "description": "Vague turquoise en gros plan, écume fine et gouttelettes cristallines.",
-      "image": "vague-turquoise.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 7,
-      "titre": "Nébuleuse violette",
-      "categorie": "espace",
-      "tags": [
-        "nébuleuse",
-        "étoiles",
-        "nuit",
-        "violet",
-        "cosmos"
-      ],
-      "description": "Nébuleuse violette et bleue parsemée d'étoiles dans le ciel nocturne.",
-      "image": "nebuleuse-violette.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 8,
-      "titre": "Rue pluvieuse",
-      "categorie": "ville",
-      "tags": [
-        "ville",
-        "pluie",
-        "nuit",
-        "néons",
-        "rue"
-      ],
-      "description": "Rue de ville la nuit sous la pluie, reflets de néons sur le pavé mouillé.",
-      "image": "rue-pluvieuse.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 9,
-      "titre": "Encres dans l'eau",
-      "categorie": "abstrait",
-      "tags": [
-        "encre",
-        "abstrait",
-        "bleu",
-        "violet",
-        "doré"
-      ],
-      "description": "Nuages d'encre bleue, violette et dorée se déployant dans l'eau claire.",
-      "image": "encres-eau.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 10,
-      "titre": "Dune de sable",
-      "categorie": "minimaliste",
-      "tags": [
-        "dune",
-        "sable",
-        "désert",
-        "minimaliste",
-        "doré"
-      ],
-      "description": "Une seule courbe de dune dorée, ombre douce et ciel dégagé.",
-      "image": "dune-sable.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 11,
-      "titre": "Champignon de forêt",
-      "categorie": "nature",
-      "tags": [
-        "champignon",
-        "forêt",
-        "mousse",
-        "rouge"
-      ],
-      "description": "Petit champignon rouge à pois blancs poussant dans la mousse d'une forêt.",
-      "image": "champignon-foret.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 12,
-      "titre": "Regard de renard",
-      "categorie": "animaux",
-      "tags": [
-        "renard",
-        "forêt",
-        "matin",
-        "regard"
-      ],
-      "description": "Le regard d'un renard roux en gros plan, forêt floue à la lumière du matin.",
-      "image": "regard-renard.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 13,
-      "titre": "Nuages dorés",
-      "categorie": "ciel",
-      "tags": [
-        "nuages",
-        "coucher-de-soleil",
-        "doré",
-        "ciel"
-      ],
-      "description": "Nuages dorés et roses au coucher du soleil, vus depuis une colline.",
-      "image": "nuages-dores.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 14,
-      "titre": "Papillon monarque",
-      "categorie": "animaux",
-      "tags": [
-        "papillon",
-        "fleur",
-        "orange",
-        "insecte"
-      ],
-      "description": "Papillon monarque orange et noir posé sur une fleur sauvage.",
-      "image": "papillon-monarque.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 1
-    },
-    {
-      "id": 15,
-      "titre": "Rosée sur pétale de rose",
-      "categorie": "nature",
-      "tags": [
-        "rosée",
-        "pétale-de-rose",
-        "rose-rouge",
-        "goutte-d-eau",
-        "macro",
-        "nature",
-        "romantique"
-      ],
-      "description": "Une goutte de rosée posée sur un pétale de rose rouge, capturée en macro. Un fond d'écran gratuit pour téléphone, délicat et romantique.",
-      "image": "rosee-petale-rose.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 16,
-      "titre": "Circuit doré",
-      "categorie": "abstrait",
-      "tags": [
-        "circuit",
-        "puce-électronique",
-        "doré",
-        "technologie",
-        "macro",
-        "abstrait",
-        "sombre"
-      ],
-      "description": "Les circuits dorés d'une puce électronique en gros plan sur fond sombre. Un fond d'écran gratuit pour téléphone, idéal pour les passionnés de technologie.",
-      "image": "circuit-dore.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 17,
-      "titre": "Cœur de latte",
-      "categorie": "minimaliste",
-      "tags": [
-        "latte-art",
-        "café",
-        "cœur",
-        "mousse",
-        "minimaliste",
-        "chaleureux"
-      ],
-      "description": "Un cœur dessiné dans la mousse d'un café latte, vu de dessus. Un fond d'écran gratuit pour téléphone, doux et réconfortant.",
-      "image": "coeur-de-latte.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 18,
-      "titre": "Néons sous la pluie",
-      "categorie": "ville",
-      "tags": [
-        "néons",
-        "pluie",
-        "nuit",
-        "rue",
-        "ville",
-        "reflets",
-        "urbain",
-        "cinématographique"
-      ],
-      "description": "Une rue de nuit sous la pluie, néons colorés reflétés sur l'asphalte mouillé. Un fond d'écran gratuit pour téléphone, ambiance urbaine et cinématographique.",
-      "image": "neons-sous-la-pluie.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 19,
-      "titre": "Spirale de coquillage",
-      "categorie": "nature",
-      "tags": [
-        "coquillage",
-        "spirale",
-        "sable",
-        "plage",
-        "nature",
-        "lumière-chaude"
-      ],
-      "description": "Un coquillage spiralé posé sur le sable fin, baigné de lumière chaude. Un fond d'écran gratuit pour téléphone, apaisant et naturel.",
-      "image": "spirale-coquillage.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 20,
-      "titre": "Aile de morpho",
-      "categorie": "animaux",
-      "tags": [
-        "papillon",
-        "morpho",
-        "aile",
-        "bleu",
-        "irisé",
-        "insecte",
-        "animaux"
-      ],
-      "description": "L'aile irisée d'un papillon bleu morpho en gros plan, aux écailles scintillantes. Un fond d'écran gratuit pour téléphone, vibrant et coloré.",
-      "image": "aile-de-morpho.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 21,
-      "titre": "Flamme dans le noir",
-      "categorie": "minimaliste",
-      "tags": [
-        "flamme",
-        "bougie",
-        "noir",
-        "halo-doré",
-        "lumière",
-        "minimaliste",
-        "calme"
-      ],
-      "description": "Une flamme de bougie dans l'obscurité, halo doré et douceur. Un fond d'écran gratuit pour téléphone, minimaliste et apaisant.",
-      "image": "flamme-dans-le-noir.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 22,
-      "titre": "Flocon sur vitre givrée",
-      "categorie": "nature",
-      "tags": [
-        "flocon",
-        "neige",
-        "givre",
-        "hiver",
-        "vitre",
-        "macro",
-        "froid"
-      ],
-      "description": "Un flocon de neige en macro sur une vitre givrée, cristaux délicats. Un fond d'écran gratuit pour téléphone, frais et hivernal.",
-      "image": "flocon-vitre-givree.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 23,
-      "titre": "Encres bleu et or",
-      "categorie": "abstrait",
-      "tags": [
-        "encres",
-        "bleu",
-        "or",
-        "marbré",
-        "abstrait",
-        "fluide",
-        "artistique"
-      ],
-      "description": "Des encres bleu profond et or se diffusant dans l'eau, motifs marbrés élégants. Un fond d'écran gratuit pour téléphone, artistique et raffiné.",
-      "image": "encres-bleu-et-or.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 24,
-      "titre": "Phare vintage",
-      "categorie": "ville",
-      "tags": [
-        "phare",
-        "voiture-vintage",
-        "nuit",
-        "rétro",
-        "halo",
-        "chrome",
-        "ville"
-      ],
-      "description": "Le phare rond d'une voiture ancienne allumé dans la nuit, halo chaud. Un fond d'écran gratuit pour téléphone, rétro et élégant.",
-      "image": "phare-vintage.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 25,
-      "titre": "Bulle irisée",
-      "categorie": "abstrait",
-      "tags": [
-        "bulle",
-        "savon",
-        "irisé",
-        "arc-en-ciel",
-        "abstrait",
-        "léger"
-      ],
-      "description": "Une bulle de savon irisée flottant sur fond sombre, reflets arc-en-ciel. Un fond d'écran gratuit pour téléphone, léger et poétique.",
-      "image": "bulle-irisee.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 26,
-      "titre": "Touches de piano",
-      "categorie": "minimaliste",
-      "tags": [
-        "piano",
-        "touches",
-        "musique",
-        "noir-et-blanc",
-        "minimaliste",
-        "élégant"
-      ],
-      "description": "Les touches noires et blanches d'un piano en macro, lumière douce. Un fond d'écran gratuit pour téléphone, élégant et musical.",
-      "image": "touches-de-piano.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 27,
-      "titre": "Nébuleuse rose",
-      "categorie": "espace",
-      "tags": [
-        "nébuleuse",
-        "espace",
-        "étoiles",
-        "rose",
-        "violet",
-        "cosmos",
-        "ciel"
-      ],
-      "description": "Une nébuleuse étoilée violette et rose dans le ciel profond. Un fond d'écran gratuit pour téléphone, cosmique et rêveur.",
-      "image": "nebuleuse-rose.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 28,
-      "titre": "Érable givré",
-      "categorie": "nature",
-      "tags": [
-        "érable",
-        "feuille",
-        "automne",
-        "givre",
-        "glace",
-        "nature",
-        "macro"
-      ],
-      "description": "Une feuille d'érable d'automne couverte de givre, cristaux de glace en macro. Un fond d'écran gratuit pour téléphone, automnal et frais.",
-      "image": "erable-givre.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 29,
-      "titre": "Pluie sur la vitre",
-      "categorie": "eau",
-      "tags": [
-        "pluie",
-        "vitre",
-        "gouttelettes",
-        "ville",
-        "bokeh",
-        "eau",
-        "cosy"
-      ],
-      "description": "Des gouttelettes de pluie sur une vitre, lumières de ville floues derrière. Un fond d'écran gratuit pour téléphone, cosy et mélancolique.",
-      "image": "pluie-sur-la-vitre.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 30,
-      "titre": "Gratte-ciel de verre au coucher du soleil",
-      "categorie": "ville",
-      "tags": [
-        "gratte-ciel",
-        "verre",
-        "coucher-de-soleil",
-        "ville",
-        "architecture",
-        "moderne",
-        "urbain"
-      ],
-      "description": "Des gratte-ciel de verre modernes reflétant un ciel de coucher de soleil orange et rose. Un fond d'écran gratuit pour téléphone, urbain et spectaculaire.",
-      "image": "gratte-ciel-verre-coucher-soleil.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 31,
-      "titre": "Voiture de sport électrique bleu nuit",
-      "categorie": "ville",
-      "tags": [
-        "voiture",
-        "sport",
-        "électrique",
-        "bleu-nuit",
-        "automobile",
-        "moderne",
-        "ville"
-      ],
-      "description": "Une voiture de sport électrique bleu nuit à la carrosserie brillante, lumières de ville en arrière-plan. Un fond d'écran gratuit pour téléphone, élégant et dynamique.",
-      "image": "voiture-sport-electrique-bleu-nuit.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 32,
-      "titre": "Rue de Tokyo la nuit sous les néons",
-      "categorie": "ville",
-      "tags": [
-        "tokyo",
-        "néons",
-        "nuit",
-        "rue",
-        "japon",
-        "reflets",
-        "urbain"
-      ],
-      "description": "Une rue de Tokyo la nuit sous les néons colorés, reflets sur le bitume mouillé. Un fond d'écran gratuit pour téléphone, ambiance cyberpunk et cinématographique.",
-      "image": "rue-tokyo-nuit-neons.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 33,
-      "titre": "Casque de réalité virtuelle futuriste",
-      "categorie": "abstrait",
-      "tags": [
-        "réalité-virtuelle",
-        "casque",
-        "futuriste",
-        "technologie",
-        "high-tech",
-        "abstrait",
-        "sombre"
-      ],
-      "description": "Un casque de réalité virtuelle futuriste sur fond sombre, reflets bleutés et accents lumineux. Un fond d'écran gratuit pour téléphone, high-tech et moderne.",
-      "image": "casque-realite-virtuelle-futuriste.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 34,
-      "titre": "Salon minimaliste design",
-      "categorie": "minimaliste",
-      "tags": [
-        "salon",
-        "minimaliste",
-        "design",
-        "intérieur",
-        "lumière",
-        "moderne",
-        "cosy"
-      ],
-      "description": "Un salon minimaliste design baigné de la lumière douce du matin, canapé beige et plantes discrètes. Un fond d'écran gratuit pour téléphone, calme et raffiné.",
-      "image": "salon-minimaliste-design.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 35,
-      "titre": "Montre de luxe en macro",
-      "categorie": "minimaliste",
-      "tags": [
-        "montre",
-        "luxe",
-        "macro",
-        "cadran",
-        "doré",
-        "horlogerie",
-        "élégant"
-      ],
-      "description": "Une montre de luxe en macro, détails du cadran bleu et aiguilles dorées. Un fond d'écran gratuit pour téléphone, élégant et précis.",
-      "image": "montre-luxe-macro.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 36,
-      "titre": "Astronaute regardant la Terre depuis l'espace",
-      "categorie": "espace",
-      "tags": [
-        "astronaute",
-        "terre",
-        "espace",
-        "étoiles",
-        "cosmos",
-        "nasa",
-        "aventure"
-      ],
-      "description": "Un astronaute contemplant la Terre bleue depuis l'espace, sur fond d'étoiles. Un fond d'écran gratuit pour téléphone, vertigineux et inspirant.",
-      "image": "astronaute-terre-espace.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 37,
-      "titre": "Baskets colorées, style streetwear",
-      "categorie": "abstrait",
-      "tags": [
-        "baskets",
-        "streetwear",
-        "couleurs",
-        "sneakers",
-        "urbain",
-        "mode",
-        "abstrait"
-      ],
-      "description": "Des baskets colorées en gros plan, style streetwear, couleurs vives sur fond urbain flou. Un fond d'écran gratuit pour téléphone, énergique et tendance.",
-      "image": "baskets-colorees-streetwear.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 38,
-      "titre": "Drone au-dessus d'une ville au crépuscule",
-      "categorie": "ville",
-      "tags": [
-        "drone",
-        "ville",
-        "crépuscule",
-        "aérien",
-        "lumières",
-        "moderne",
-        "urbain"
-      ],
-      "description": "Un drone volant au-dessus d'une ville au crépuscule, ciel violet et orange, lumières qui s'allument. Un fond d'écran gratuit pour téléphone, aérien et moderne.",
-      "image": "drone-ville-crepuscule.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 39,
-      "titre": "Écouteurs sans fil premium",
-      "categorie": "minimaliste",
-      "tags": [
-        "écouteurs",
-        "sans-fil",
-        "premium",
-        "audio",
-        "technologie",
-        "minimaliste",
-        "moderne"
-      ],
-      "description": "Des écouteurs sans fil premium sur fond dégradé bleu-violet, reflets doux et design épuré. Un fond d'écran gratuit pour téléphone, high-tech et minimaliste.",
-      "image": "ecouteurs-sans-fil-premium.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 40,
-      "titre": "Pont suspendu moderne dans la brume du matin",
-      "categorie": "ville",
-      "tags": [
-        "pont",
-        "suspendu",
-        "brume",
-        "matin",
-        "architecture",
-        "moderne",
-        "ville"
-      ],
-      "description": "Un pont suspendu moderne émergeant de la brume du matin, lumière dorée perçant le brouillard. Un fond d'écran gratuit pour téléphone, calme et majestueux.",
-      "image": "pont-suspendu-brume-matin.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 41,
-      "titre": "Forêt de bambous, lumière filtrée entre les tiges",
-      "categorie": "nature",
-      "tags": [
-        "bambous",
-        "forêt",
-        "lumière",
-        "zen",
-        "vert",
-        "nature",
-        "apaisant"
-      ],
-      "description": "Une forêt de bambous verts traversée par des rayons de lumière filtrée entre les tiges. Un fond d'écran gratuit pour téléphone, zen et apaisant.",
-      "image": "foret-bambous-lumiere.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 42,
-      "titre": "Plage tropicale turquoise vue du ciel",
-      "categorie": "paysages",
-      "tags": [
-        "plage",
-        "tropicale",
-        "turquoise",
-        "sable",
-        "palmiers",
-        "mer",
-        "paradis"
-      ],
-      "description": "Une plage tropicale turquoise vue du ciel, sable blanc et palmiers bordant une eau cristalline. Un fond d'écran gratuit pour téléphone, paradisiaque et lumineux.",
-      "image": "plage-tropicale-turquoise-ciel.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 43,
-      "titre": "Chat roux aux yeux verts, portrait en gros plan",
-      "categorie": "animaux",
-      "tags": [
-        "chat",
-        "roux",
-        "yeux-verts",
-        "portrait",
-        "animal",
-        "gros-plan",
-        "adorable"
-      ],
-      "description": "Un chat roux aux yeux verts perçants en portrait gros plan, fourrure détaillée et regard intense. Un fond d'écran gratuit pour téléphone, adorable et captivant.",
-      "image": "chat-roux-yeux-verts.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 44,
-      "titre": "Aurore boréale verte au-dessus de montagnes enneigées",
-      "categorie": "ciel",
-      "tags": [
-        "aurore-boréale",
-        "ciel",
-        "nuit",
-        "étoiles",
-        "neige",
-        "montagnes",
-        "magique"
-      ],
-      "description": "Une aurore boréale verte dansant dans un ciel étoilé au-dessus de montagnes enneigées. Un fond d'écran gratuit pour téléphone, magique et féerique.",
-      "image": "aurore-boreale-montagnes-neige.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 45,
-      "titre": "Fleurs de cerisier en pleine floraison, pétales qui tombent",
-      "categorie": "nature",
-      "tags": [
-        "cerisier",
-        "fleurs",
-        "pétales",
-        "rose",
-        "printemps",
-        "nature",
-        "japon"
-      ],
-      "description": "Des fleurs de cerisier roses en pleine floraison, pétales tombant doucement sous un ciel bleu clair. Un fond d'écran gratuit pour téléphone, délicat et printanier.",
-      "image": "fleurs-cerisier-floraison.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 46,
-      "titre": "Tasse de café crème sur table en bois, ambiance cosy",
-      "categorie": "minimaliste",
-      "tags": [
-        "café",
-        "crème",
-        "tasse",
-        "bois",
-        "cosy",
-        "matin",
-        "chaleureux"
-      ],
-      "description": "Une tasse de café crème sur une table en bois, vapeur qui s'élève dans une lumière douce du matin. Un fond d'écran gratuit pour téléphone, cosy et chaleureux.",
-      "image": "cafe-creme-table-bois.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 47,
-      "titre": "Cascade tropicale dans la jungle luxuriante",
-      "categorie": "eau",
-      "tags": [
-        "cascade",
-        "jungle",
-        "tropicale",
-        "eau",
-        "turquoise",
-        "nature",
-        "paradis"
-      ],
-      "description": "Une cascade tropicale dans une jungle luxuriante, eau turquoise et végétation dense. Un fond d'écran gratuit pour téléphone, paradisiaque et rafraîchissant.",
-      "image": "cascade-tropicale-jungle.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 48,
-      "titre": "Voilier blanc au coucher du soleil sur la mer",
-      "categorie": "paysages",
-      "tags": [
-        "voilier",
-        "mer",
-        "coucher-de-soleil",
-        "voile",
-        "voyage",
-        "serein",
-        "océan"
-      ],
-      "description": "Un voilier blanc naviguant au coucher du soleil sur une mer calme, ciel orange et reflets dorés. Un fond d'écran gratuit pour téléphone, serein et rêveur.",
-      "image": "voilier-coucher-soleil-mer.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 49,
-      "titre": "Lionne dorée dans la savane au crépuscule",
-      "categorie": "animaux",
-      "tags": [
-        "lionne",
-        "savane",
-        "crépuscule",
-        "doré",
-        "afrique",
-        "animal",
-        "majestueux"
-      ],
-      "description": "Une lionne dorée dans la savane au crépuscule, lumière chaude et regard majestueux vers l'horizon. Un fond d'écran gratuit pour téléphone, sauvage et élégant.",
-      "image": "lionne-savane-crepuscule.webp",
-      "date_ajout": "2026-11-20",
-      "telechargements": 0
-    },
-    {
-      "id": 50,
-      "titre": "Montgolfières colorées au lever du soleil",
-      "categorie": "paysages",
-      "tags": [
-        "montgolfières",
-        "lever-du-soleil",
-        "vallée",
-        "brume",
-        "ciel",
-        "couleurs",
-        "voyage"
-      ],
-      "description": "Des montgolfières colorées flottant au-dessus d'une vallée brumeuse au lever du soleil, ciel doré et rose. Un fond d'écran gratuit pour téléphone, poétique et lumineux.",
-      "image": "montgolfieres-lever-soleil.webp",
-      "date_ajout": "2026-11-21",
-      "telechargements": 0
-    },
-    {
-      "id": 51,
-      "titre": "Renard polaire dans la neige",
-      "categorie": "animaux",
-      "tags": [
-        "renard-polaire",
-        "neige",
-        "hiver",
-        "arctique",
-        "animal",
-        "blanc",
-        "froid"
-      ],
-      "description": "Un renard polaire blanc dans un paysage de neige immaculée, regard vif et flocons qui tombent. Un fond d'écran gratuit pour téléphone, pur et hivernal.",
-      "image": "renard-polaire-neige.webp",
-      "date_ajout": "2026-11-21",
-      "telechargements": 0
-    },
-    {
-      "id": 52,
-      "titre": "Galaxie spirale et étoiles filantes",
-      "categorie": "espace",
-      "tags": [
-        "galaxie",
-        "spirale",
-        "étoiles-filantes",
-        "espace",
-        "nuit",
-        "nébuleuse",
-        "cosmos"
-      ],
-      "description": "Une galaxie spirale majestueuse dans un ciel nocturne profond, étoiles filantes et nébuleuses colorées. Un fond d'écran gratuit pour téléphone, cosmique et féerique.",
-      "image": "galaxie-spirale-etoiles-filantes.webp",
-      "date_ajout": "2026-11-21",
-      "telechargements": 0
-    },
-    {
-      "id": 53,
-      "titre": "Chute d'eau gelée en hiver",
-      "categorie": "eau",
-      "tags": [
-        "cascade",
-        "gelée",
-        "glace",
-        "hiver",
-        "neige",
-        "canyon",
-        "bleu"
-      ],
-      "description": "Une chute d'eau figée en glace bleutée dans un canyon enneigé, stalactites de glace étincelantes. Un fond d'écran gratuit pour téléphone, glacial et spectaculaire.",
-      "image": "chute-eau-gelee-hiver.webp",
-      "date_ajout": "2026-11-21",
-      "telechargements": 0
-    },
-    {
-      "id": 54,
-      "titre": "Marché d'épices coloré",
-      "categorie": "ville",
-      "tags": [
-        "marché",
-        "épices",
-        "couleurs",
-        "souk",
-        "curcuma",
-        "safran",
-        "exotique"
-      ],
-      "description": "Un marché d'épices coloré, monticules de curcuma, paprika et safran sous une lumière chaude de souk. Un fond d'écran gratuit pour téléphone, vibrant et exotique.",
-      "image": "marche-epices-colore.webp",
-      "date_ajout": "2026-11-21",
-      "telechargements": 0
-    },
-    {
-      "id": 55,
-      "titre": "Fougère en macro, gouttes de rosée",
-      "categorie": "nature",
-      "tags": [
-        "fougère",
-        "macro",
-        "rosée",
-        "gouttes",
-        "vert",
-        "nature",
-        "matin"
-      ],
-      "description": "Une fougère en macro avec des gouttes de rosée cristallines sur les feuilles vertes, lumière du matin. Un fond d'écran gratuit pour téléphone, frais et délicat.",
-      "image": "fougere-macro-rosee.webp",
-      "date_ajout": "2026-11-21",
-      "telechargements": 0
-    },
-    {
-      "id": 56,
-      "titre": "Piano à queue sous une lumière dorée",
-      "categorie": "minimaliste",
-      "tags": [
-        "piano",
-        "musique",
-        "lumière-dorée",
-        "élégant",
-        "noir",
-        "soir",
-        "raffiné"
-      ],
-      "description": "Un piano à queue noir laqué sous une lumière dorée du soir, reflets chauds et ambiance raffinée. Un fond d'écran gratuit pour téléphone, élégant et intime.",
-      "image": "piano-queue-lumiere-doree.webp",
-      "date_ajout": "2026-11-21",
-      "telechargements": 0
-    },
-    {
-      "id": 57,
-      "titre": "Tourbillon de peinture colorée",
-      "categorie": "abstrait",
-      "tags": [
-        "peinture",
-        "tourbillon",
-        "couleurs",
-        "abstrait",
-        "liquide",
-        "art",
-        "vibrant"
-      ],
-      "description": "Un tourbillon de peinture liquide aux couleurs vives en mouvement, textures fluides et brillantes sur fond sombre. Un fond d'écran gratuit pour téléphone, artistique et dynamique.",
-      "image": "tourbillon-peinture-coloree.webp",
-      "date_ajout": "2026-11-21",
-      "telechargements": 0
-    },
-    {
-      "id": 58,
-      "titre": "Dunes du désert sous un ciel étoilé",
-      "categorie": "ciel",
-      "tags": [
-        "dunes",
-        "désert",
-        "sable",
-        "étoiles",
-        "voie-lactée",
-        "nuit",
-        "ciel"
-      ],
-      "description": "Des dunes de sable aux courbes douces sous une Voie lactée brillante et un ciel d'étoiles innombrables. Un fond d'écran gratuit pour téléphone, nocturne et serein.",
-      "image": "dunes-desert-ciel-etoile.webp",
-      "date_ajout": "2026-11-21",
-      "telechargements": 0
-    },
-    {
-      "id": 59,
-      "titre": "Cerf majestueux dans la forêt brumeuse",
-      "categorie": "animaux",
-      "tags": [
-        "cerf",
-        "forêt",
-        "brume",
-        "bois",
-        "animal",
-        "matin",
-        "sauvage"
-      ],
-      "description": "Un cerf majestueux aux bois imposants dans une forêt de conifères enveloppée de brume matinale. Un fond d'écran gratuit pour téléphone, mystérieux et sauvage.",
-      "image": "cerf-foret-brumeuse.webp",
-      "date_ajout": "2026-11-21",
-      "telechargements": 0
-    }
-  ]
+ "version": 1,
+ "updated": "2026-11-22T05:30:31Z",
+ "site": "https://fondsecranlibre.free.je",
+ "images_base_url": "https://arthur-falola.github.io/fond-ecran-libre-data/images/",
+ "collections": [
+  {
+   "id": "matin",
+   "nom": "Douceurs du matin",
+   "emoji": "🌅",
+   "tag": "matin",
+   "tags": [
+    "matin"
+   ],
+   "description": "Le jour se lève doucement : rosée, brume et premiers rayons pour commencer la journée en beauté."
+  },
+  {
+   "id": "nuit",
+   "nom": "Nuit & lumières",
+   "emoji": "🌙",
+   "tag": "nuit",
+   "tags": [
+    "nuit"
+   ],
+   "description": "Quand la nuit tombe, les étoiles et les néons prennent le relais."
+  },
+  {
+   "id": "dore",
+   "nom": "Tout en doré",
+   "emoji": "✨",
+   "tag": "doré",
+   "tags": [
+    "doré"
+   ],
+   "description": "Or, miel et lumière chaude : des fonds qui brillent sans éblouir."
+  },
+  {
+   "id": "macro",
+   "nom": "Macro monde",
+   "emoji": "🔍",
+   "tag": "macro",
+   "tags": [
+    "macro"
+   ],
+   "description": "L'infiniment petit vu de très près : gouttes, plumes, regards et textures."
+  },
+  {
+   "id": "bleu",
+   "nom": "Bleu profond",
+   "emoji": "💙",
+   "tag": "bleu",
+   "tags": [
+    "bleu",
+    "turquoise"
+   ],
+   "description": "Vagues, encres et horizons bleus pour un écran apaisant."
+  },
+  {
+   "id": "foret",
+   "nom": "Au cœur de la forêt",
+   "emoji": "🌲",
+   "tag": "forêt",
+   "tags": [
+    "forêt"
+   ],
+   "description": "Mousse, champignons et regards discrets entre les arbres."
+  }
+ ],
+ "wallpapers": [
+  {
+   "id": 1,
+   "titre": "Rosée du matin",
+   "categorie": "nature",
+   "tags": [
+    "matin",
+    "rosée",
+    "macro",
+    "goutte"
+   ],
+   "description": "Goutte de rosée sur une toile d'araignée, reflet du lever du soleil.",
+   "image": "rosee-toile-araignee.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 2,
+   "titre": "Plume dorée",
+   "categorie": "nature",
+   "tags": [
+    "plume",
+    "doré",
+    "macro",
+    "pollen"
+   ],
+   "description": "Plume tombée au sol, saupoudrée de pollen doré.",
+   "image": "plume-pollen.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 3,
+   "titre": "L'œil du caméléon",
+   "categorie": "animaux",
+   "tags": [
+    "caméléon",
+    "œil",
+    "macro",
+    "reptile",
+    "couleurs"
+   ],
+   "description": "Œil de caméléon en gros plan, écailles colorées.",
+   "image": "oeil-cameleon.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 4,
+   "titre": "L'abeille du matin",
+   "categorie": "animaux",
+   "tags": [
+    "abeille",
+    "matin",
+    "macro",
+    "fleur",
+    "pollen"
+   ],
+   "description": "Abeille couverte de pollen, posée sur une fleur sauvage.",
+   "image": "abeille-pollen.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 1
+  },
+  {
+   "id": 5,
+   "titre": "Brume de montagne",
+   "categorie": "paysages",
+   "tags": [
+    "montagne",
+    "brume",
+    "matin",
+    "lever-de-soleil"
+   ],
+   "description": "Crêtes de montagne émergeant d'une mer de brume au lever du soleil.",
+   "image": "brume-montagne.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 6,
+   "titre": "Vague turquoise",
+   "categorie": "eau",
+   "tags": [
+    "vague",
+    "mer",
+    "turquoise",
+    "océan",
+    "écume"
+   ],
+   "description": "Vague turquoise en gros plan, écume fine et gouttelettes cristallines.",
+   "image": "vague-turquoise.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 7,
+   "titre": "Nébuleuse violette",
+   "categorie": "espace",
+   "tags": [
+    "nébuleuse",
+    "étoiles",
+    "nuit",
+    "violet",
+    "cosmos"
+   ],
+   "description": "Nébuleuse violette et bleue parsemée d'étoiles dans le ciel nocturne.",
+   "image": "nebuleuse-violette.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 8,
+   "titre": "Rue pluvieuse",
+   "categorie": "ville",
+   "tags": [
+    "ville",
+    "pluie",
+    "nuit",
+    "néons",
+    "rue"
+   ],
+   "description": "Rue de ville la nuit sous la pluie, reflets de néons sur le pavé mouillé.",
+   "image": "rue-pluvieuse.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 9,
+   "titre": "Encres dans l'eau",
+   "categorie": "abstrait",
+   "tags": [
+    "encre",
+    "abstrait",
+    "bleu",
+    "violet",
+    "doré"
+   ],
+   "description": "Nuages d'encre bleue, violette et dorée se déployant dans l'eau claire.",
+   "image": "encres-eau.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 10,
+   "titre": "Dune de sable",
+   "categorie": "minimaliste",
+   "tags": [
+    "dune",
+    "sable",
+    "désert",
+    "minimaliste",
+    "doré"
+   ],
+   "description": "Une seule courbe de dune dorée, ombre douce et ciel dégagé.",
+   "image": "dune-sable.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 11,
+   "titre": "Champignon de forêt",
+   "categorie": "nature",
+   "tags": [
+    "champignon",
+    "forêt",
+    "mousse",
+    "rouge"
+   ],
+   "description": "Petit champignon rouge à pois blancs poussant dans la mousse d'une forêt.",
+   "image": "champignon-foret.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 12,
+   "titre": "Regard de renard",
+   "categorie": "animaux",
+   "tags": [
+    "renard",
+    "forêt",
+    "matin",
+    "regard"
+   ],
+   "description": "Le regard d'un renard roux en gros plan, forêt floue à la lumière du matin.",
+   "image": "regard-renard.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 13,
+   "titre": "Nuages dorés",
+   "categorie": "ciel",
+   "tags": [
+    "nuages",
+    "coucher-de-soleil",
+    "doré",
+    "ciel"
+   ],
+   "description": "Nuages dorés et roses au coucher du soleil, vus depuis une colline.",
+   "image": "nuages-dores.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 14,
+   "titre": "Papillon monarque",
+   "categorie": "animaux",
+   "tags": [
+    "papillon",
+    "fleur",
+    "orange",
+    "insecte"
+   ],
+   "description": "Papillon monarque orange et noir posé sur une fleur sauvage.",
+   "image": "papillon-monarque.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 1
+  },
+  {
+   "id": 15,
+   "titre": "Rosée sur pétale de rose",
+   "categorie": "nature",
+   "tags": [
+    "rosée",
+    "pétale-de-rose",
+    "rose-rouge",
+    "goutte-d-eau",
+    "macro",
+    "nature",
+    "romantique"
+   ],
+   "description": "Une goutte de rosée posée sur un pétale de rose rouge, capturée en macro. Un fond d'écran gratuit pour téléphone, délicat et romantique.",
+   "image": "rosee-petale-rose.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 16,
+   "titre": "Circuit doré",
+   "categorie": "abstrait",
+   "tags": [
+    "circuit",
+    "puce-électronique",
+    "doré",
+    "technologie",
+    "macro",
+    "abstrait",
+    "sombre"
+   ],
+   "description": "Les circuits dorés d'une puce électronique en gros plan sur fond sombre. Un fond d'écran gratuit pour téléphone, idéal pour les passionnés de technologie.",
+   "image": "circuit-dore.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 17,
+   "titre": "Cœur de latte",
+   "categorie": "minimaliste",
+   "tags": [
+    "latte-art",
+    "café",
+    "cœur",
+    "mousse",
+    "minimaliste",
+    "chaleureux"
+   ],
+   "description": "Un cœur dessiné dans la mousse d'un café latte, vu de dessus. Un fond d'écran gratuit pour téléphone, doux et réconfortant.",
+   "image": "coeur-de-latte.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 18,
+   "titre": "Néons sous la pluie",
+   "categorie": "ville",
+   "tags": [
+    "néons",
+    "pluie",
+    "nuit",
+    "rue",
+    "ville",
+    "reflets",
+    "urbain",
+    "cinématographique"
+   ],
+   "description": "Une rue de nuit sous la pluie, néons colorés reflétés sur l'asphalte mouillé. Un fond d'écran gratuit pour téléphone, ambiance urbaine et cinématographique.",
+   "image": "neons-sous-la-pluie.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 19,
+   "titre": "Spirale de coquillage",
+   "categorie": "nature",
+   "tags": [
+    "coquillage",
+    "spirale",
+    "sable",
+    "plage",
+    "nature",
+    "lumière-chaude"
+   ],
+   "description": "Un coquillage spiralé posé sur le sable fin, baigné de lumière chaude. Un fond d'écran gratuit pour téléphone, apaisant et naturel.",
+   "image": "spirale-coquillage.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 20,
+   "titre": "Aile de morpho",
+   "categorie": "animaux",
+   "tags": [
+    "papillon",
+    "morpho",
+    "aile",
+    "bleu",
+    "irisé",
+    "insecte",
+    "animaux"
+   ],
+   "description": "L'aile irisée d'un papillon bleu morpho en gros plan, aux écailles scintillantes. Un fond d'écran gratuit pour téléphone, vibrant et coloré.",
+   "image": "aile-de-morpho.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 21,
+   "titre": "Flamme dans le noir",
+   "categorie": "minimaliste",
+   "tags": [
+    "flamme",
+    "bougie",
+    "noir",
+    "halo-doré",
+    "lumière",
+    "minimaliste",
+    "calme"
+   ],
+   "description": "Une flamme de bougie dans l'obscurité, halo doré et douceur. Un fond d'écran gratuit pour téléphone, minimaliste et apaisant.",
+   "image": "flamme-dans-le-noir.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 22,
+   "titre": "Flocon sur vitre givrée",
+   "categorie": "nature",
+   "tags": [
+    "flocon",
+    "neige",
+    "givre",
+    "hiver",
+    "vitre",
+    "macro",
+    "froid"
+   ],
+   "description": "Un flocon de neige en macro sur une vitre givrée, cristaux délicats. Un fond d'écran gratuit pour téléphone, frais et hivernal.",
+   "image": "flocon-vitre-givree.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 23,
+   "titre": "Encres bleu et or",
+   "categorie": "abstrait",
+   "tags": [
+    "encres",
+    "bleu",
+    "or",
+    "marbré",
+    "abstrait",
+    "fluide",
+    "artistique"
+   ],
+   "description": "Des encres bleu profond et or se diffusant dans l'eau, motifs marbrés élégants. Un fond d'écran gratuit pour téléphone, artistique et raffiné.",
+   "image": "encres-bleu-et-or.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 24,
+   "titre": "Phare vintage",
+   "categorie": "ville",
+   "tags": [
+    "phare",
+    "voiture-vintage",
+    "nuit",
+    "rétro",
+    "halo",
+    "chrome",
+    "ville"
+   ],
+   "description": "Le phare rond d'une voiture ancienne allumé dans la nuit, halo chaud. Un fond d'écran gratuit pour téléphone, rétro et élégant.",
+   "image": "phare-vintage.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 25,
+   "titre": "Bulle irisée",
+   "categorie": "abstrait",
+   "tags": [
+    "bulle",
+    "savon",
+    "irisé",
+    "arc-en-ciel",
+    "abstrait",
+    "léger"
+   ],
+   "description": "Une bulle de savon irisée flottant sur fond sombre, reflets arc-en-ciel. Un fond d'écran gratuit pour téléphone, léger et poétique.",
+   "image": "bulle-irisee.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 26,
+   "titre": "Touches de piano",
+   "categorie": "minimaliste",
+   "tags": [
+    "piano",
+    "touches",
+    "musique",
+    "noir-et-blanc",
+    "minimaliste",
+    "élégant"
+   ],
+   "description": "Les touches noires et blanches d'un piano en macro, lumière douce. Un fond d'écran gratuit pour téléphone, élégant et musical.",
+   "image": "touches-de-piano.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 27,
+   "titre": "Nébuleuse rose",
+   "categorie": "espace",
+   "tags": [
+    "nébuleuse",
+    "espace",
+    "étoiles",
+    "rose",
+    "violet",
+    "cosmos",
+    "ciel"
+   ],
+   "description": "Une nébuleuse étoilée violette et rose dans le ciel profond. Un fond d'écran gratuit pour téléphone, cosmique et rêveur.",
+   "image": "nebuleuse-rose.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 28,
+   "titre": "Érable givré",
+   "categorie": "nature",
+   "tags": [
+    "érable",
+    "feuille",
+    "automne",
+    "givre",
+    "glace",
+    "nature",
+    "macro"
+   ],
+   "description": "Une feuille d'érable d'automne couverte de givre, cristaux de glace en macro. Un fond d'écran gratuit pour téléphone, automnal et frais.",
+   "image": "erable-givre.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 29,
+   "titre": "Pluie sur la vitre",
+   "categorie": "eau",
+   "tags": [
+    "pluie",
+    "vitre",
+    "gouttelettes",
+    "ville",
+    "bokeh",
+    "eau",
+    "cosy"
+   ],
+   "description": "Des gouttelettes de pluie sur une vitre, lumières de ville floues derrière. Un fond d'écran gratuit pour téléphone, cosy et mélancolique.",
+   "image": "pluie-sur-la-vitre.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 30,
+   "titre": "Gratte-ciel de verre au coucher du soleil",
+   "categorie": "ville",
+   "tags": [
+    "gratte-ciel",
+    "verre",
+    "coucher-de-soleil",
+    "ville",
+    "architecture",
+    "moderne",
+    "urbain"
+   ],
+   "description": "Des gratte-ciel de verre modernes reflétant un ciel de coucher de soleil orange et rose. Un fond d'écran gratuit pour téléphone, urbain et spectaculaire.",
+   "image": "gratte-ciel-verre-coucher-soleil.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 31,
+   "titre": "Voiture de sport électrique bleu nuit",
+   "categorie": "ville",
+   "tags": [
+    "voiture",
+    "sport",
+    "électrique",
+    "bleu-nuit",
+    "automobile",
+    "moderne",
+    "ville"
+   ],
+   "description": "Une voiture de sport électrique bleu nuit à la carrosserie brillante, lumières de ville en arrière-plan. Un fond d'écran gratuit pour téléphone, élégant et dynamique.",
+   "image": "voiture-sport-electrique-bleu-nuit.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 32,
+   "titre": "Rue de Tokyo la nuit sous les néons",
+   "categorie": "ville",
+   "tags": [
+    "tokyo",
+    "néons",
+    "nuit",
+    "rue",
+    "japon",
+    "reflets",
+    "urbain"
+   ],
+   "description": "Une rue de Tokyo la nuit sous les néons colorés, reflets sur le bitume mouillé. Un fond d'écran gratuit pour téléphone, ambiance cyberpunk et cinématographique.",
+   "image": "rue-tokyo-nuit-neons.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 33,
+   "titre": "Casque de réalité virtuelle futuriste",
+   "categorie": "abstrait",
+   "tags": [
+    "réalité-virtuelle",
+    "casque",
+    "futuriste",
+    "technologie",
+    "high-tech",
+    "abstrait",
+    "sombre"
+   ],
+   "description": "Un casque de réalité virtuelle futuriste sur fond sombre, reflets bleutés et accents lumineux. Un fond d'écran gratuit pour téléphone, high-tech et moderne.",
+   "image": "casque-realite-virtuelle-futuriste.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 34,
+   "titre": "Salon minimaliste design",
+   "categorie": "minimaliste",
+   "tags": [
+    "salon",
+    "minimaliste",
+    "design",
+    "intérieur",
+    "lumière",
+    "moderne",
+    "cosy"
+   ],
+   "description": "Un salon minimaliste design baigné de la lumière douce du matin, canapé beige et plantes discrètes. Un fond d'écran gratuit pour téléphone, calme et raffiné.",
+   "image": "salon-minimaliste-design.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 35,
+   "titre": "Montre de luxe en macro",
+   "categorie": "minimaliste",
+   "tags": [
+    "montre",
+    "luxe",
+    "macro",
+    "cadran",
+    "doré",
+    "horlogerie",
+    "élégant"
+   ],
+   "description": "Une montre de luxe en macro, détails du cadran bleu et aiguilles dorées. Un fond d'écran gratuit pour téléphone, élégant et précis.",
+   "image": "montre-luxe-macro.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 36,
+   "titre": "Astronaute regardant la Terre depuis l'espace",
+   "categorie": "espace",
+   "tags": [
+    "astronaute",
+    "terre",
+    "espace",
+    "étoiles",
+    "cosmos",
+    "nasa",
+    "aventure"
+   ],
+   "description": "Un astronaute contemplant la Terre bleue depuis l'espace, sur fond d'étoiles. Un fond d'écran gratuit pour téléphone, vertigineux et inspirant.",
+   "image": "astronaute-terre-espace.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 37,
+   "titre": "Baskets colorées, style streetwear",
+   "categorie": "abstrait",
+   "tags": [
+    "baskets",
+    "streetwear",
+    "couleurs",
+    "sneakers",
+    "urbain",
+    "mode",
+    "abstrait"
+   ],
+   "description": "Des baskets colorées en gros plan, style streetwear, couleurs vives sur fond urbain flou. Un fond d'écran gratuit pour téléphone, énergique et tendance.",
+   "image": "baskets-colorees-streetwear.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 38,
+   "titre": "Drone au-dessus d'une ville au crépuscule",
+   "categorie": "ville",
+   "tags": [
+    "drone",
+    "ville",
+    "crépuscule",
+    "aérien",
+    "lumières",
+    "moderne",
+    "urbain"
+   ],
+   "description": "Un drone volant au-dessus d'une ville au crépuscule, ciel violet et orange, lumières qui s'allument. Un fond d'écran gratuit pour téléphone, aérien et moderne.",
+   "image": "drone-ville-crepuscule.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 39,
+   "titre": "Écouteurs sans fil premium",
+   "categorie": "minimaliste",
+   "tags": [
+    "écouteurs",
+    "sans-fil",
+    "premium",
+    "audio",
+    "technologie",
+    "minimaliste",
+    "moderne"
+   ],
+   "description": "Des écouteurs sans fil premium sur fond dégradé bleu-violet, reflets doux et design épuré. Un fond d'écran gratuit pour téléphone, high-tech et minimaliste.",
+   "image": "ecouteurs-sans-fil-premium.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 40,
+   "titre": "Pont suspendu moderne dans la brume du matin",
+   "categorie": "ville",
+   "tags": [
+    "pont",
+    "suspendu",
+    "brume",
+    "matin",
+    "architecture",
+    "moderne",
+    "ville"
+   ],
+   "description": "Un pont suspendu moderne émergeant de la brume du matin, lumière dorée perçant le brouillard. Un fond d'écran gratuit pour téléphone, calme et majestueux.",
+   "image": "pont-suspendu-brume-matin.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 41,
+   "titre": "Forêt de bambous, lumière filtrée entre les tiges",
+   "categorie": "nature",
+   "tags": [
+    "bambous",
+    "forêt",
+    "lumière",
+    "zen",
+    "vert",
+    "nature",
+    "apaisant"
+   ],
+   "description": "Une forêt de bambous verts traversée par des rayons de lumière filtrée entre les tiges. Un fond d'écran gratuit pour téléphone, zen et apaisant.",
+   "image": "foret-bambous-lumiere.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 42,
+   "titre": "Plage tropicale turquoise vue du ciel",
+   "categorie": "paysages",
+   "tags": [
+    "plage",
+    "tropicale",
+    "turquoise",
+    "sable",
+    "palmiers",
+    "mer",
+    "paradis"
+   ],
+   "description": "Une plage tropicale turquoise vue du ciel, sable blanc et palmiers bordant une eau cristalline. Un fond d'écran gratuit pour téléphone, paradisiaque et lumineux.",
+   "image": "plage-tropicale-turquoise-ciel.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 43,
+   "titre": "Chat roux aux yeux verts, portrait en gros plan",
+   "categorie": "animaux",
+   "tags": [
+    "chat",
+    "roux",
+    "yeux-verts",
+    "portrait",
+    "animal",
+    "gros-plan",
+    "adorable"
+   ],
+   "description": "Un chat roux aux yeux verts perçants en portrait gros plan, fourrure détaillée et regard intense. Un fond d'écran gratuit pour téléphone, adorable et captivant.",
+   "image": "chat-roux-yeux-verts.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 44,
+   "titre": "Aurore boréale verte au-dessus de montagnes enneigées",
+   "categorie": "ciel",
+   "tags": [
+    "aurore-boréale",
+    "ciel",
+    "nuit",
+    "étoiles",
+    "neige",
+    "montagnes",
+    "magique"
+   ],
+   "description": "Une aurore boréale verte dansant dans un ciel étoilé au-dessus de montagnes enneigées. Un fond d'écran gratuit pour téléphone, magique et féerique.",
+   "image": "aurore-boreale-montagnes-neige.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 45,
+   "titre": "Fleurs de cerisier en pleine floraison, pétales qui tombent",
+   "categorie": "nature",
+   "tags": [
+    "cerisier",
+    "fleurs",
+    "pétales",
+    "rose",
+    "printemps",
+    "nature",
+    "japon"
+   ],
+   "description": "Des fleurs de cerisier roses en pleine floraison, pétales tombant doucement sous un ciel bleu clair. Un fond d'écran gratuit pour téléphone, délicat et printanier.",
+   "image": "fleurs-cerisier-floraison.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 46,
+   "titre": "Tasse de café crème sur table en bois, ambiance cosy",
+   "categorie": "minimaliste",
+   "tags": [
+    "café",
+    "crème",
+    "tasse",
+    "bois",
+    "cosy",
+    "matin",
+    "chaleureux"
+   ],
+   "description": "Une tasse de café crème sur une table en bois, vapeur qui s'élève dans une lumière douce du matin. Un fond d'écran gratuit pour téléphone, cosy et chaleureux.",
+   "image": "cafe-creme-table-bois.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 47,
+   "titre": "Cascade tropicale dans la jungle luxuriante",
+   "categorie": "eau",
+   "tags": [
+    "cascade",
+    "jungle",
+    "tropicale",
+    "eau",
+    "turquoise",
+    "nature",
+    "paradis"
+   ],
+   "description": "Une cascade tropicale dans une jungle luxuriante, eau turquoise et végétation dense. Un fond d'écran gratuit pour téléphone, paradisiaque et rafraîchissant.",
+   "image": "cascade-tropicale-jungle.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 48,
+   "titre": "Voilier blanc au coucher du soleil sur la mer",
+   "categorie": "paysages",
+   "tags": [
+    "voilier",
+    "mer",
+    "coucher-de-soleil",
+    "voile",
+    "voyage",
+    "serein",
+    "océan"
+   ],
+   "description": "Un voilier blanc naviguant au coucher du soleil sur une mer calme, ciel orange et reflets dorés. Un fond d'écran gratuit pour téléphone, serein et rêveur.",
+   "image": "voilier-coucher-soleil-mer.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 49,
+   "titre": "Lionne dorée dans la savane au crépuscule",
+   "categorie": "animaux",
+   "tags": [
+    "lionne",
+    "savane",
+    "crépuscule",
+    "doré",
+    "afrique",
+    "animal",
+    "majestueux"
+   ],
+   "description": "Une lionne dorée dans la savane au crépuscule, lumière chaude et regard majestueux vers l'horizon. Un fond d'écran gratuit pour téléphone, sauvage et élégant.",
+   "image": "lionne-savane-crepuscule.webp",
+   "date_ajout": "2026-11-20",
+   "telechargements": 0
+  },
+  {
+   "id": 50,
+   "titre": "Montgolfières colorées au lever du soleil",
+   "categorie": "paysages",
+   "tags": [
+    "montgolfières",
+    "lever-du-soleil",
+    "vallée",
+    "brume",
+    "ciel",
+    "couleurs",
+    "voyage"
+   ],
+   "description": "Des montgolfières colorées flottant au-dessus d'une vallée brumeuse au lever du soleil, ciel doré et rose. Un fond d'écran gratuit pour téléphone, poétique et lumineux.",
+   "image": "montgolfieres-lever-soleil.webp",
+   "date_ajout": "2026-11-21",
+   "telechargements": 0
+  },
+  {
+   "id": 51,
+   "titre": "Renard polaire dans la neige",
+   "categorie": "animaux",
+   "tags": [
+    "renard-polaire",
+    "neige",
+    "hiver",
+    "arctique",
+    "animal",
+    "blanc",
+    "froid"
+   ],
+   "description": "Un renard polaire blanc dans un paysage de neige immaculée, regard vif et flocons qui tombent. Un fond d'écran gratuit pour téléphone, pur et hivernal.",
+   "image": "renard-polaire-neige.webp",
+   "date_ajout": "2026-11-21",
+   "telechargements": 0
+  },
+  {
+   "id": 52,
+   "titre": "Galaxie spirale et étoiles filantes",
+   "categorie": "espace",
+   "tags": [
+    "galaxie",
+    "spirale",
+    "étoiles-filantes",
+    "espace",
+    "nuit",
+    "nébuleuse",
+    "cosmos"
+   ],
+   "description": "Une galaxie spirale majestueuse dans un ciel nocturne profond, étoiles filantes et nébuleuses colorées. Un fond d'écran gratuit pour téléphone, cosmique et féerique.",
+   "image": "galaxie-spirale-etoiles-filantes.webp",
+   "date_ajout": "2026-11-21",
+   "telechargements": 0
+  },
+  {
+   "id": 53,
+   "titre": "Chute d'eau gelée en hiver",
+   "categorie": "eau",
+   "tags": [
+    "cascade",
+    "gelée",
+    "glace",
+    "hiver",
+    "neige",
+    "canyon",
+    "bleu"
+   ],
+   "description": "Une chute d'eau figée en glace bleutée dans un canyon enneigé, stalactites de glace étincelantes. Un fond d'écran gratuit pour téléphone, glacial et spectaculaire.",
+   "image": "chute-eau-gelee-hiver.webp",
+   "date_ajout": "2026-11-21",
+   "telechargements": 0
+  },
+  {
+   "id": 54,
+   "titre": "Marché d'épices coloré",
+   "categorie": "ville",
+   "tags": [
+    "marché",
+    "épices",
+    "couleurs",
+    "souk",
+    "curcuma",
+    "safran",
+    "exotique"
+   ],
+   "description": "Un marché d'épices coloré, monticules de curcuma, paprika et safran sous une lumière chaude de souk. Un fond d'écran gratuit pour téléphone, vibrant et exotique.",
+   "image": "marche-epices-colore.webp",
+   "date_ajout": "2026-11-21",
+   "telechargements": 0
+  },
+  {
+   "id": 55,
+   "titre": "Fougère en macro, gouttes de rosée",
+   "categorie": "nature",
+   "tags": [
+    "fougère",
+    "macro",
+    "rosée",
+    "gouttes",
+    "vert",
+    "nature",
+    "matin"
+   ],
+   "description": "Une fougère en macro avec des gouttes de rosée cristallines sur les feuilles vertes, lumière du matin. Un fond d'écran gratuit pour téléphone, frais et délicat.",
+   "image": "fougere-macro-rosee.webp",
+   "date_ajout": "2026-11-21",
+   "telechargements": 0
+  },
+  {
+   "id": 56,
+   "titre": "Piano à queue sous une lumière dorée",
+   "categorie": "minimaliste",
+   "tags": [
+    "piano",
+    "musique",
+    "lumière-dorée",
+    "élégant",
+    "noir",
+    "soir",
+    "raffiné"
+   ],
+   "description": "Un piano à queue noir laqué sous une lumière dorée du soir, reflets chauds et ambiance raffinée. Un fond d'écran gratuit pour téléphone, élégant et intime.",
+   "image": "piano-queue-lumiere-doree.webp",
+   "date_ajout": "2026-11-21",
+   "telechargements": 0
+  },
+  {
+   "id": 57,
+   "titre": "Tourbillon de peinture colorée",
+   "categorie": "abstrait",
+   "tags": [
+    "peinture",
+    "tourbillon",
+    "couleurs",
+    "abstrait",
+    "liquide",
+    "art",
+    "vibrant"
+   ],
+   "description": "Un tourbillon de peinture liquide aux couleurs vives en mouvement, textures fluides et brillantes sur fond sombre. Un fond d'écran gratuit pour téléphone, artistique et dynamique.",
+   "image": "tourbillon-peinture-coloree.webp",
+   "date_ajout": "2026-11-21",
+   "telechargements": 0
+  },
+  {
+   "id": 58,
+   "titre": "Dunes du désert sous un ciel étoilé",
+   "categorie": "ciel",
+   "tags": [
+    "dunes",
+    "désert",
+    "sable",
+    "étoiles",
+    "voie-lactée",
+    "nuit",
+    "ciel"
+   ],
+   "description": "Des dunes de sable aux courbes douces sous une Voie lactée brillante et un ciel d'étoiles innombrables. Un fond d'écran gratuit pour téléphone, nocturne et serein.",
+   "image": "dunes-desert-ciel-etoile.webp",
+   "date_ajout": "2026-11-21",
+   "telechargements": 0
+  },
+  {
+   "id": 59,
+   "titre": "Cerf majestueux dans la forêt brumeuse",
+   "categorie": "animaux",
+   "tags": [
+    "cerf",
+    "forêt",
+    "brume",
+    "bois",
+    "animal",
+    "matin",
+    "sauvage"
+   ],
+   "description": "Un cerf majestueux aux bois imposants dans une forêt de conifères enveloppée de brume matinale. Un fond d'écran gratuit pour téléphone, mystérieux et sauvage.",
+   "image": "cerf-foret-brumeuse.webp",
+   "date_ajout": "2026-11-21",
+   "telechargements": 0
+  },
+  {
+   "id": 60,
+   "titre": "Hibou des neiges, regard perçant",
+   "categorie": "animaux",
+   "tags": [
+    "hibou",
+    "neiges",
+    "regard",
+    "yeux-jaunes",
+    "oiseau",
+    "hiver",
+    "arctique"
+   ],
+   "description": "Un hibou des neiges au plumage immaculé et aux yeux jaunes perçants, en gros plan sur fond de forêt hivernale floue. Un fond d'écran gratuit pour téléphone, majestueux et captivant.",
+   "image": "hibou-des-neiges-regard.webp",
+   "date_ajout": "2026-11-22",
+   "telechargements": 0
+  },
+  {
+   "id": 61,
+   "titre": "Libellule aux ailes irisées",
+   "categorie": "animaux",
+   "tags": [
+    "libellule",
+    "ailes",
+    "irisé",
+    "insecte",
+    "roseau",
+    "étang",
+    "macro"
+   ],
+   "description": "Une libellule aux ailes irisées délicates posée sur un roseau au bord d'un étang, lumière douce du matin. Un fond d'écran gratuit pour téléphone, délicat et lumineux.",
+   "image": "libellule-aile-irisee.webp",
+   "date_ajout": "2026-11-22",
+   "telechargements": 0
+  },
+  {
+   "id": 62,
+   "titre": "Champ de lavande au coucher du soleil",
+   "categorie": "paysages",
+   "tags": [
+    "lavande",
+    "champ",
+    "coucher-de-soleil",
+    "provence",
+    "violet",
+    "été",
+    "fleurs"
+   ],
+   "description": "Un champ de lavande violette à perte de vue sous un ciel de coucher de soleil doré et rose. Un fond d'écran gratuit pour téléphone, apaisant et lumineux.",
+   "image": "champ-lavande-coucher-soleil.webp",
+   "date_ajout": "2026-11-22",
+   "telechargements": 0
+  },
+  {
+   "id": 63,
+   "titre": "Rizières en terrasses au lever du soleil",
+   "categorie": "paysages",
+   "tags": [
+    "rizières",
+    "terrasses",
+    "lever-du-soleil",
+    "asie",
+    "miroir",
+    "vert",
+    "voyage"
+   ],
+   "description": "Des rizières en terrasses inondées reflétant le ciel rose du lever du soleil, montagnes vertes en arrière-plan. Un fond d'écran gratuit pour téléphone, serein et spectaculaire.",
+   "image": "rizieres-terrasses-lever-soleil.webp",
+   "date_ajout": "2026-11-22",
+   "telechargements": 0
+  },
+  {
+   "id": 64,
+   "titre": "Méduse luminescente dans les profondeurs",
+   "categorie": "eau",
+   "tags": [
+    "méduse",
+    "luminescent",
+    "océan",
+    "profondeur",
+    "bleu",
+    "bioluminescence",
+    "marin"
+   ],
+   "description": "Une méduse luminescente aux tentacules délicats dérivant dans les profondeurs bleu nuit de l'océan. Un fond d'écran gratuit pour téléphone, magique et apaisant.",
+   "image": "meduse-luminescente-profondeurs.webp",
+   "date_ajout": "2026-11-22",
+   "telechargements": 0
+  },
+  {
+   "id": 65,
+   "titre": "Escalier en colimaçon, vue du bas",
+   "categorie": "ville",
+   "tags": [
+    "escalier",
+    "colimaçon",
+    "architecture",
+    "spirale",
+    "géométrie",
+    "intérieur",
+    "moderne"
+   ],
+   "description": "Un escalier en colimaçon vu du bas, spirale géométrique parfaite baignée de lumière naturelle. Un fond d'écran gratuit pour téléphone, graphique et élégant.",
+   "image": "escalier-colimacon-vue-bas.webp",
+   "date_ajout": "2026-11-22",
+   "telechargements": 0
+  },
+  {
+   "id": 66,
+   "titre": "Saturne et ses anneaux",
+   "categorie": "espace",
+   "tags": [
+    "saturne",
+    "planète",
+    "anneaux",
+    "espace",
+    "cosmos",
+    "étoiles",
+    "astronomie"
+   ],
+   "description": "La planète Saturne et ses anneaux dorés en gros plan, sur fond d'étoiles et de cosmos profond. Un fond d'écran gratuit pour téléphone, vertigineux et majestueux.",
+   "image": "saturne-anneaux-espace.webp",
+   "date_ajout": "2026-11-22",
+   "telechargements": 0
+  },
+  {
+   "id": 67,
+   "titre": "Orchidée violette en macro",
+   "categorie": "nature",
+   "tags": [
+    "orchidée",
+    "fleur",
+    "violet",
+    "macro",
+    "pétales",
+    "exotique",
+    "délicat"
+   ],
+   "description": "Une orchidée violette en macro, pétales veloutés et cœur délicat capturés dans les moindres détails. Un fond d'écran gratuit pour téléphone, exotique et raffiné.",
+   "image": "orchidee-violette-macro.webp",
+   "date_ajout": "2026-11-22",
+   "telechargements": 0
+  },
+  {
+   "id": 68,
+   "titre": "Ombre de palmier sur un mur blanc",
+   "categorie": "minimaliste",
+   "tags": [
+    "ombre",
+    "palmier",
+    "mur-blanc",
+    "minimaliste",
+    "lumière",
+    "été",
+    "géométrie"
+   ],
+   "description": "L'ombre élégante d'une feuille de palmier projetée sur un mur blanc baigné de soleil. Un fond d'écran gratuit pour téléphone, minimaliste et lumineux.",
+   "image": "ombre-palmier-mur-blanc.webp",
+   "date_ajout": "2026-11-22",
+   "telechargements": 0
+  },
+  {
+   "id": 69,
+   "titre": "Éclairs d'orage au-dessus de la mer",
+   "categorie": "ciel",
+   "tags": [
+    "éclairs",
+    "orage",
+    "mer",
+    "tempête",
+    "nuit",
+    "nuages",
+    "dramatique"
+   ],
+   "description": "Des éclairs spectaculaires zébrant un ciel d'orage sombre au-dessus d'une mer agitée, horizon lumineux. Un fond d'écran gratuit pour téléphone, dramatique et puissant.",
+   "image": "eclairs-orage-mer.webp",
+   "date_ajout": "2026-11-22",
+   "telechargements": 0
+  }
+ ]
 }
