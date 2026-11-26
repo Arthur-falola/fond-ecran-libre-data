@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-25T05:49:48Z",
+  "updated": "2026-11-26T05:28:57Z",
   "site": "https://fondsecranlibre.free.je",
   "images_base_url": "https://arthur-falola.github.io/fond-ecran-libre-data/images/",
   "collections": [
@@ -1809,6 +1809,186 @@
       "description": "Une arche dorée minimaliste sur un mur beige en plâtre, lumière naturelle douce et longue ombre élégante. Un fond d'écran gratuit pour téléphone, calme et raffiné.",
       "image": "arche-doree-minimaliste-fond-beige.webp",
       "date_ajout": "2026-11-24",
+      "telechargements": 0
+    },
+    {
+      "id": 100,
+      "titre": "Tigre du Bengale dans les hautes herbes au matin",
+      "categorie": "animaux",
+      "tags": [
+        "tigre",
+        "bengale",
+        "savane",
+        "matin",
+        "animal",
+        "sauvage",
+        "félin"
+      ],
+      "description": "Un tigre du Bengale majestueux marchant dans les hautes herbes dorées à la lumière du matin. Un fond d'écran gratuit pour téléphone, sauvage et puissant.",
+      "image": "tigre-bengale-hautes-herbes.webp",
+      "date_ajout": "2026-11-26",
+      "telechargements": 0
+    },
+    {
+      "id": 101,
+      "titre": "Jupiter et sa grande tache rouge vue de près",
+      "categorie": "espace",
+      "tags": [
+        "jupiter",
+        "planète",
+        "espace",
+        "tache-rouge",
+        "astronomie",
+        "cosmos",
+        "géante"
+      ],
+      "description": "La planète Jupiter vue de près avec ses bandes nuageuses tourbillonnantes et sa grande tache rouge. Un fond d'écran gratuit pour téléphone, cosmique et fascinant.",
+      "image": "jupiter-grande-tache-rouge.webp",
+      "date_ajout": "2026-11-26",
+      "telechargements": 0
+    },
+    {
+      "id": 102,
+      "titre": "Funiculaire rouge grimpant une colline au-dessus de la ville",
+      "categorie": "ville",
+      "tags": [
+        "funiculaire",
+        "rouge",
+        "colline",
+        "ville",
+        "voyage",
+        "transport",
+        "heure-dorée"
+      ],
+      "description": "Un funiculaire rouge vif grimpant une colline verdoyante au-dessus d'une ville côtière à l'heure dorée. Un fond d'écran gratuit pour téléphone, coloré et voyageur.",
+      "image": "funiculaire-rouge-colline-ville.webp",
+      "date_ajout": "2026-11-26",
+      "telechargements": 0
+    },
+    {
+      "id": 103,
+      "titre": "Miel doré coulant sur un rayon de ruche en macro",
+      "categorie": "nature",
+      "tags": [
+        "miel",
+        "ruche",
+        "macro",
+        "doré",
+        "abeille",
+        "nature",
+        "gourmand"
+      ],
+      "description": "Du miel doré coulant lentement sur un rayon de ruche naturel, gouttes ambrées scintillantes en macro. Un fond d'écran gratuit pour téléphone, gourmand et lumineux.",
+      "image": "miel-dore-rayon-ruche-macro.webp",
+      "date_ajout": "2026-11-26",
+      "telechargements": 0
+    },
+    {
+      "id": 104,
+      "titre": "Goutte d'eau créant une couronne liquide en macro",
+      "categorie": "eau",
+      "tags": [
+        "goutte",
+        "eau",
+        "couronne",
+        "macro",
+        "éclaboussure",
+        "liquide",
+        "bleu"
+      ],
+      "description": "Une goutte d'eau tombant dans l'eau claire et formant une parfaite couronne liquide figée en macro. Un fond d'écran gratuit pour téléphone, pur et hypnotique.",
+      "image": "goutte-eau-couronne-macro.webp",
+      "date_ajout": "2026-11-26",
+      "telechargements": 0
+    },
+    {
+      "id": 105,
+      "titre": "Éclipse solaire totale et sa couronne de lumière",
+      "categorie": "ciel",
+      "tags": [
+        "éclipse",
+        "soleil",
+        "lune",
+        "couronne",
+        "ciel",
+        "astronomie",
+        "spectaculaire"
+      ],
+      "description": "Une éclipse solaire totale avec sa couronne de lumière blanche rayonnant autour du disque noir de la Lune. Un fond d'écran gratuit pour téléphone, rare et spectaculaire.",
+      "image": "eclipse-solaire-totale-couronne.webp",
+      "date_ajout": "2026-11-26",
+      "telechargements": 0
+    },
+    {
+      "id": 106,
+      "titre": "Cristaux de sel rose en macro, géométrie naturelle",
+      "categorie": "abstrait",
+      "tags": [
+        "cristaux",
+        "sel-rose",
+        "macro",
+        "géométrie",
+        "minéral",
+        "rose",
+        "abstrait"
+      ],
+      "description": "Des cristaux de sel rose aux facettes géométriques naturelles, lumière douce traversant les cristaux translucides en macro. Un fond d'écran gratuit pour téléphone, minéral et élégant.",
+      "image": "cristaux-sel-rose-macro.webp",
+      "date_ajout": "2026-11-26",
+      "telechargements": 0
+    },
+    {
+      "id": 107,
+      "titre": "Livre ouvert et lunettes sur drap blanc, lumière douce",
+      "categorie": "minimaliste",
+      "tags": [
+        "livre",
+        "lunettes",
+        "lecture",
+        "blanc",
+        "matin",
+        "calme",
+        "minimaliste"
+      ],
+      "description": "Un livre ouvert et des lunettes de lecture posés sur un drap blanc, baignés d'une lumière douce du matin. Un fond d'écran gratuit pour téléphone, calme et épuré.",
+      "image": "livre-ouvert-lunettes-lumiere-douce.webp",
+      "date_ajout": "2026-11-26",
+      "telechargements": 0
+    },
+    {
+      "id": 108,
+      "titre": "Canyon rouge strié sous la lumière du soir",
+      "categorie": "paysages",
+      "tags": [
+        "canyon",
+        "rouge",
+        "roche",
+        "soir",
+        "désert",
+        "paysage",
+        "grandiose"
+      ],
+      "description": "Un canyon de roche rouge aux falaises striées illuminées par la lumière chaude du soir. Un fond d'écran gratuit pour téléphone, grandiose et sauvage.",
+      "image": "canyon-rouge-lumiere-soir.webp",
+      "date_ajout": "2026-11-26",
+      "telechargements": 0
+    },
+    {
+      "id": 109,
+      "titre": "Flamants roses dans un lagon au lever du soleil",
+      "categorie": "animaux",
+      "tags": [
+        "flamants",
+        "roses",
+        "lagon",
+        "lever-de-soleil",
+        "oiseaux",
+        "animal",
+        "poétique"
+      ],
+      "description": "Des flamants roses pataugeant dans un lagon calme au lever du soleil, ciel rose et orange reflété dans l'eau. Un fond d'écran gratuit pour téléphone, doux et poétique.",
+      "image": "flamants-roses-lagon-lever-soleil.webp",
+      "date_ajout": "2026-11-26",
       "telechargements": 0
     }
   ]
