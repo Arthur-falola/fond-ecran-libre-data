@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-26T05:28:57Z",
+  "updated": "2026-11-27T05:39:57Z",
   "site": "https://fondsecranlibre.free.je",
   "images_base_url": "https://arthur-falola.github.io/fond-ecran-libre-data/images/",
   "collections": [
@@ -1989,6 +1989,186 @@
       "description": "Des flamants roses pataugeant dans un lagon calme au lever du soleil, ciel rose et orange reflété dans l'eau. Un fond d'écran gratuit pour téléphone, doux et poétique.",
       "image": "flamants-roses-lagon-lever-soleil.webp",
       "date_ajout": "2026-11-26",
+      "telechargements": 0
+    },
+    {
+      "id": 110,
+      "titre": "Fleur de lotus rose sur étang au matin",
+      "categorie": "nature",
+      "tags": [
+        "lotus",
+        "fleur",
+        "étang",
+        "rose",
+        "matin",
+        "nature",
+        "serein"
+      ],
+      "description": "Une fleur de lotus rose en pleine floraison sur un étang calme au matin, brume douce et gouttes de rosée sur les pétales. Un fond d'écran gratuit pour téléphone, serein et délicat.",
+      "image": "fleur-lotus-rose-etang-matin.webp",
+      "date_ajout": "2026-11-27",
+      "telechargements": 0
+    },
+    {
+      "id": 111,
+      "titre": "Paon royal aux plumes irisées déployées",
+      "categorie": "animaux",
+      "tags": [
+        "paon",
+        "plumes",
+        "irisé",
+        "oiseau",
+        "animal",
+        "coloré",
+        "majestueux"
+      ],
+      "description": "Un paon royal déployant ses plumes irisées bleu et vert, ocelles scintillant sous la lumière du soleil. Un fond d'écran gratuit pour téléphone, majestueux et coloré.",
+      "image": "paon-royal-plumes-irisees.webp",
+      "date_ajout": "2026-11-27",
+      "telechargements": 0
+    },
+    {
+      "id": 112,
+      "titre": "Désert de sel blanc infini au crépuscule",
+      "categorie": "paysages",
+      "tags": [
+        "désert",
+        "sel",
+        "blanc",
+        "crépuscule",
+        "paysage",
+        "horizon",
+        "minimaliste"
+      ],
+      "description": "Un désert de sel blanc infini au crépuscule, motifs hexagonaux craquelés et reflets violets du ciel du soir. Un fond d'écran gratuit pour téléphone, vaste et apaisant.",
+      "image": "desert-sel-blanc-crepuscule.webp",
+      "date_ajout": "2026-11-27",
+      "telechargements": 0
+    },
+    {
+      "id": 113,
+      "titre": "Nuages lenticulaires roses au-dessus d'un volcan",
+      "categorie": "ciel",
+      "tags": [
+        "nuages",
+        "lenticulaires",
+        "volcan",
+        "ciel",
+        "rose",
+        "coucher-de-soleil",
+        "montagne"
+      ],
+      "description": "Des nuages lenticulaires roses et orangés empilés au-dessus d'un volcan enneigé au coucher du soleil. Un fond d'écran gratuit pour téléphone, spectaculaire et lumineux.",
+      "image": "nuages-lenticulaires-volcan.webp",
+      "date_ajout": "2026-11-27",
+      "telechargements": 0
+    },
+    {
+      "id": 114,
+      "titre": "Vagues de soie liquide noire et or",
+      "categorie": "abstrait",
+      "tags": [
+        "soie",
+        "liquide",
+        "noir",
+        "or",
+        "abstrait",
+        "vagues",
+        "luxe"
+      ],
+      "description": "Des vagues de soie liquide noire et or aux courbes élégantes captant une lumière chaude et luxueuse. Un fond d'écran gratuit pour téléphone, premium et raffiné.",
+      "image": "vagues-soie-liquide-noir-or.webp",
+      "date_ajout": "2026-11-27",
+      "telechargements": 0
+    },
+    {
+      "id": 115,
+      "titre": "Bougie allumée sur fond beige minimaliste",
+      "categorie": "minimaliste",
+      "tags": [
+        "bougie",
+        "flamme",
+        "beige",
+        "minimaliste",
+        "zen",
+        "doux",
+        "calme"
+      ],
+      "description": "Une bougie allumée à la flamme chaude sur fond beige uni, ombre douce et grand espace vide apaisant. Un fond d'écran gratuit pour téléphone, zen et épuré.",
+      "image": "bougie-allumee-fond-beige.webp",
+      "date_ajout": "2026-11-27",
+      "telechargements": 0
+    },
+    {
+      "id": 116,
+      "titre": "Comète verte traversant un ciel étoilé",
+      "categorie": "espace",
+      "tags": [
+        "comète",
+        "verte",
+        "ciel",
+        "étoiles",
+        "espace",
+        "nuit",
+        "cosmos"
+      ],
+      "description": "Une comète verte éclatante à la longue queue lumineuse traversant un ciel étoilé au-dessus de montagnes sombres. Un fond d'écran gratuit pour téléphone, cosmique et fascinant.",
+      "image": "comete-verte-ciel-etoile.webp",
+      "date_ajout": "2026-11-27",
+      "telechargements": 0
+    },
+    {
+      "id": 117,
+      "titre": "Tramway jaune dans une rue pavée de Lisbonne",
+      "categorie": "ville",
+      "tags": [
+        "tramway",
+        "jaune",
+        "lisbonne",
+        "rue",
+        "pavée",
+        "ville",
+        "voyage"
+      ],
+      "description": "Un tramway jaune vintage gravissant une rue pavée escarpée de Lisbonne entre des façades colorées baignées de soleil. Un fond d'écran gratuit pour téléphone, charmant et voyageur.",
+      "image": "tramway-jaune-lisbonne-rue-pavee.webp",
+      "date_ajout": "2026-11-27",
+      "telechargements": 0
+    },
+    {
+      "id": 118,
+      "titre": "Iceberg bleu flottant dans l'océan arctique",
+      "categorie": "eau",
+      "tags": [
+        "iceberg",
+        "bleu",
+        "océan",
+        "arctique",
+        "glace",
+        "eau",
+        "polaire"
+      ],
+      "description": "Un iceberg bleu massif flottant dans l'océan arctique calme à l'heure dorée, reflet miroir dans l'eau turquoise. Un fond d'écran gratuit pour téléphone, polaire et majestueux.",
+      "image": "iceberg-bleu-ocean-arctique.webp",
+      "date_ajout": "2026-11-27",
+      "telechargements": 0
+    },
+    {
+      "id": 119,
+      "titre": "Feuille de ginkgo dorée en macro sur mousse",
+      "categorie": "nature",
+      "tags": [
+        "ginkgo",
+        "feuille",
+        "dorée",
+        "macro",
+        "automne",
+        "mousse",
+        "nature"
+      ],
+      "description": "Une feuille de ginkgo dorée en éventail posée sur de la mousse verte en macro, nervures fines et gouttelettes d'eau. Un fond d'écran gratuit pour téléphone, automnal et détaillé.",
+      "image": "feuille-ginkgo-doree-macro.webp",
+      "date_ajout": "2026-11-27",
       "telechargements": 0
     }
   ]
