@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-27T05:39:57Z",
+  "updated": "2026-11-28T05:47:53Z",
   "site": "https://fondsecranlibre.free.je",
   "images_base_url": "https://arthur-falola.github.io/fond-ecran-libre-data/images/",
   "collections": [
@@ -2169,6 +2169,186 @@
       "description": "Une feuille de ginkgo dorée en éventail posée sur de la mousse verte en macro, nervures fines et gouttelettes d'eau. Un fond d'écran gratuit pour téléphone, automnal et détaillé.",
       "image": "feuille-ginkgo-doree-macro.webp",
       "date_ajout": "2026-11-27",
+      "telechargements": 0
+    },
+    {
+      "id": 120,
+      "titre": "Panda géant mangeant du bambou dans la forêt",
+      "categorie": "animaux",
+      "tags": [
+        "panda",
+        "bambou",
+        "forêt",
+        "animal",
+        "mignon",
+        "chine",
+        "nature"
+      ],
+      "description": "Un panda géant assis au milieu d'une forêt de bambous verts, en train de croquer une tige fraîche. Un fond d'écran gratuit pour téléphone, adorable et apaisant.",
+      "image": "panda-geant-bambou.webp",
+      "date_ajout": "2026-11-28",
+      "telechargements": 0
+    },
+    {
+      "id": 121,
+      "titre": "Champ de coquelicots rouges sous un ciel bleu",
+      "categorie": "paysages",
+      "tags": [
+        "coquelicots",
+        "champ",
+        "rouge",
+        "fleurs",
+        "ciel-bleu",
+        "printemps",
+        "prairie"
+      ],
+      "description": "Un champ immense de coquelicots rouges ondulant sous un ciel bleu d'été parsemé de nuages blancs. Un fond d'écran gratuit pour téléphone, éclatant et printanier.",
+      "image": "champ-coquelicots-rouges.webp",
+      "date_ajout": "2026-11-28",
+      "telechargements": 0
+    },
+    {
+      "id": 122,
+      "titre": "Toile d'araignée couverte de gouttes de rosée en macro",
+      "categorie": "nature",
+      "tags": [
+        "toile-araignée",
+        "rosée",
+        "macro",
+        "gouttes",
+        "matin",
+        "nature",
+        "détails"
+      ],
+      "description": "Une toile d'araignée délicate couverte de gouttes de rosée scintillantes au lever du soleil, en macro extrême. Un fond d'écran gratuit pour téléphone, poétique et fascinant.",
+      "image": "toile-araignee-rosee-macro.webp",
+      "date_ajout": "2026-11-28",
+      "telechargements": 0
+    },
+    {
+      "id": 123,
+      "titre": "Pingouins royaux sur la banquise antarctique",
+      "categorie": "animaux",
+      "tags": [
+        "pingouins",
+        "antarctique",
+        "banquise",
+        "neige",
+        "animal",
+        "polaire",
+        "hiver"
+      ],
+      "description": "Un groupe de pingouins royaux au plumage doré rassemblés sur la banquise blanche de l'Antarctique. Un fond d'écran gratuit pour téléphone, polaire et majestueux.",
+      "image": "pingouins-royaux-banquise.webp",
+      "date_ajout": "2026-11-28",
+      "telechargements": 0
+    },
+    {
+      "id": 124,
+      "titre": "Ruelle de Santorin, maisons blanches et dômes bleus",
+      "categorie": "ville",
+      "tags": [
+        "santorin",
+        "grèce",
+        "maisons-blanches",
+        "dômes-bleus",
+        "mer-égée",
+        "voyage",
+        "méditerranée"
+      ],
+      "description": "Une ruelle pavée de Santorin bordée de maisons blanches aux dômes bleus, avec la mer Égée en arrière-plan. Un fond d'écran gratuit pour téléphone, méditerranéen et lumineux.",
+      "image": "ruelle-santorin-maisons-blanches.webp",
+      "date_ajout": "2026-11-28",
+      "telechargements": 0
+    },
+    {
+      "id": 125,
+      "titre": "Coulée de lave volcanique incandescente la nuit",
+      "categorie": "paysages",
+      "tags": [
+        "volcan",
+        "lave",
+        "éruption",
+        "nuit",
+        "orange",
+        "nature",
+        "spectaculaire"
+      ],
+      "description": "Une coulée de lave orange incandescente serpentant sur les pentes sombres d'un volcan en éruption la nuit. Un fond d'écran gratuit pour téléphone, intense et spectaculaire.",
+      "image": "coulee-lave-volcanique-nuit.webp",
+      "date_ajout": "2026-11-28",
+      "telechargements": 0
+    },
+    {
+      "id": 126,
+      "titre": "Colibri en vol près d'une fleur d'hibiscus",
+      "categorie": "animaux",
+      "tags": [
+        "colibri",
+        "hibiscus",
+        "oiseau",
+        "vol",
+        "tropical",
+        "fleur",
+        "couleurs"
+      ],
+      "description": "Un colibri aux plumes irisées en vol stationnaire près d'une grande fleur d'hibiscus rouge éclatante. Un fond d'écran gratuit pour téléphone, vif et tropical.",
+      "image": "colibri-fleur-hibiscus.webp",
+      "date_ajout": "2026-11-28",
+      "telechargements": 0
+    },
+    {
+      "id": 127,
+      "titre": "Station spatiale au-dessus de la Terre et de l'océan",
+      "categorie": "espace",
+      "tags": [
+        "station-spatiale",
+        "terre",
+        "espace",
+        "océan",
+        "orbite",
+        "technologie",
+        "planète"
+      ],
+      "description": "Une station spatiale orbitant au-dessus de la Terre, avec l'océan bleu et les nuages en contrebas. Un fond d'écran gratuit pour téléphone, futuriste et vertigineux.",
+      "image": "station-spatiale-terre-ocean.webp",
+      "date_ajout": "2026-11-28",
+      "telechargements": 0
+    },
+    {
+      "id": 128,
+      "titre": "Source chaude turquoise fumante au lever du soleil",
+      "categorie": "eau",
+      "tags": [
+        "source-chaude",
+        "turquoise",
+        "vapeur",
+        "eau",
+        "lever-du-soleil",
+        "nature",
+        "détente"
+      ],
+      "description": "Une source chaude aux eaux turquoise fumantes au lever du soleil, entourée de roches volcaniques. Un fond d'écran gratuit pour téléphone, mystérieux et apaisant.",
+      "image": "source-chaude-turquoise-vapeur.webp",
+      "date_ajout": "2026-11-28",
+      "telechargements": 0
+    },
+    {
+      "id": 129,
+      "titre": "Prisme de lumière, arc-en-ciel sur fond sombre",
+      "categorie": "abstrait",
+      "tags": [
+        "prisme",
+        "lumière",
+        "arc-en-ciel",
+        "couleurs",
+        "abstrait",
+        "verre",
+        "science"
+      ],
+      "description": "Un prisme de verre décomposant un rayon de lumière blanche en un arc-en-ciel éclatant sur fond sombre. Un fond d'écran gratuit pour téléphone, élégant et coloré.",
+      "image": "prisme-lumiere-arc-en-ciel.webp",
+      "date_ajout": "2026-11-28",
       "telechargements": 0
     }
   ]
